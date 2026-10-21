@@ -1,0 +1,1001 @@
+transaction_id,fecha,customer_id,producto,categoria,cantidad,precio_unitario,total,metodo_pago,estado,estado_envio,ciudad
+TXN-000001,2025-01-01 00:00:00.000000,CUST-8270,Teclado,Accesorios,2,1573.0,3146.0,Transferencia,Pendiente,Cancelado,Tlaxcala
+TXN-000002,2025-01-01 08:44:41.081081,CUST-1860,Audifonos,Accesorios,4,3430.16,13720.64,Efectivo,Completada,Entregado,Veracruz
+TXN-000003,2025-01-01 17:29:22.162162,CUST-6390,Audifonos,Accesorios,2,3294.18,6588.36,PayPal,Completada,Entregado,Ciudad de Mexico
+TXN-000004,2025-01-02 02:14:03.243243,CUST-6191,Tablet,Computacion,5,7228.5,36142.5,Transferencia,Completada,Pendiente,Oaxaca
+TXN-000005,2025-01-02 10:58:44.324324,CUST-6734,Impresora,Computacion,5,6969.41,34847.05,Tarjeta,Completada,Pendiente,Oaxaca
+TXN-000006,2025-01-02 19:43:25.405405,CUST-7265,Smartphone,Telefonia,5,14425.74,72128.7,Tarjeta,Completada,Entregado,Monterrey
+TXN-000007,2025-01-03 04:28:06.486486,CUST-1466,Smartphone,Telefonia,1,24582.1,24582.1,Efectivo,Completada,Pendiente,Oaxaca
+TXN-000008,2025-01-03 13:12:47.567567,CUST-5426,Tablet,Computacion,4,10609.71,42438.84,Transferencia,Pendiente,Cancelado,Oaxaca
+TXN-000009,2025-01-03 21:57:28.648648,CUST-6578,Mouse,Accesorios,5,364.14,1820.7,Efectivo,Completada,Entregado,Queretaro
+TXN-000010,2025-01-04 06:42:09.729729,CUST-9322,Smartphone,Telefonia,1,18523.55,18523.55,PayPal,Completada,Cancelado,Oaxaca
+TXN-000011,2025-01-04 15:26:50.810810,CUST-2685,Monitor,Computacion,4,4938.28,19753.12,Tarjeta,Completada,Cancelado,Oaxaca
+TXN-000012,2025-01-05 00:11:31.891891,CUST-1769,Laptop,Computacion,2,23726.54,47453.08,PayPal,Completada,Pendiente,Puebla
+TXN-000013,2025-01-05 08:56:12.972972,CUST-7949,Audifonos,Accesorios,1,813.39,813.39,Transferencia,Completada,Cancelado,Tlaxcala
+TXN-000014,2025-01-05 17:40:54.054054,CUST-3433,Audifonos,Accesorios,3,1286.97,3860.91,Efectivo,Completada,Pendiente,Monterrey
+TXN-000015,2025-01-06 02:25:35.135135,CUST-6311,Monitor,Computacion,1,8918.03,8918.03,Efectivo,Completada,Enviado,Queretaro
+TXN-000016,2025-01-06 11:10:16.216216,CUST-6051,Impresora,Computacion,1,2976.67,2976.67,Efectivo,Completada,Pendiente,Oaxaca
+TXN-000017,2025-01-06 19:54:57.297297,CUST-7420,Smartphone,Telefonia,4,21740.82,86963.28,PayPal,Completada,Cancelado,Monterrey
+TXN-000018,2025-01-07 04:39:38.378378,CUST-2184,Audifonos,Accesorios,2,1756.74,3513.48,Tarjeta,Completada,Enviado,Tlaxcala
+TXN-000019,2025-01-07 13:24:19.459459,CUST-5555,Teclado,Accesorios,3,1392.9,4178.7,PayPal,Completada,Pendiente,Queretaro
+TXN-000020,2025-01-07 22:09:00.540540,CUST-4385,Impresora,Computacion,5,6011.98,30059.9,PayPal,Pendiente,Cancelado,Guadalajara
+TXN-000021,2025-01-08 06:53:41.621621,CUST-7396,Laptop,Computacion,5,20253.1,101265.5,Transferencia,Completada,Entregado,Oaxaca
+TXN-000022,2025-01-08 15:38:22.702702,CUST-9666,Laptop,Computacion,1,16106.21,16106.21,Transferencia,Completada,Entregado,Monterrey
+TXN-000023,2025-01-09 00:23:03.783783,CUST-3558,Audifonos,Accesorios,4,1456.9,5827.6,Transferencia,Completada,Pendiente,Veracruz
+TXN-000024,2025-01-09 09:07:44.864864,CUST-8849,Tablet,Computacion,4,3398.27,13593.08,Tarjeta,Completada,Pendiente,Queretaro
+TXN-000025,2025-01-09 17:52:25.945945,CUST-3047,Impresora,Computacion,5,3475.65,17378.25,Tarjeta,Completada,Entregado,Queretaro
+TXN-000026,2025-01-10 02:37:07.027027,CUST-3747,Audifonos,Accesorios,3,3439.23,10317.69,Transferencia,Completada,Cancelado,Monterrey
+TXN-000027,2025-01-10 11:21:48.108108,CUST-1189,Tablet,Computacion,2,14259.66,28519.32,Transferencia,Completada,Cancelado,Oaxaca
+TXN-000028,2025-01-10 20:06:29.189189,CUST-3734,Audifonos,Accesorios,3,4420.42,13261.26,Tarjeta,Cancelada,Cancelado,Ciudad de Mexico
+TXN-000029,2025-01-11 04:51:10.270270,CUST-4005,Teclado,Accesorios,2,1602.31,3204.62,Efectivo,Completada,Pendiente,Puebla
+TXN-000030,2025-01-11 13:35:51.351351,CUST-5658,Impresora,Computacion,5,6624.91,33124.55,Tarjeta,Completada,Enviado,Veracruz
+TXN-000031,2025-01-11 22:20:32.432432,CUST-2899,Mouse,Accesorios,2,1064.48,2128.96,Tarjeta,Completada,Enviado,Veracruz
+TXN-000032,2025-01-12 07:05:13.513513,CUST-8734,Laptop,Computacion,4,15205.74,60822.96,Tarjeta,Pendiente,Enviado,Ciudad de Mexico
+TXN-000033,2025-01-12 15:49:54.594594,CUST-2267,Audifonos,Accesorios,1,4582.38,4582.38,Transferencia,Completada,Enviado,Oaxaca
+TXN-000034,2025-01-13 00:34:35.675675,CUST-2528,Teclado,Accesorios,1,1440.24,1440.24,Efectivo,Completada,Enviado,Queretaro
+TXN-000035,2025-01-13 09:19:16.756756,CUST-4556,Tablet,Computacion,5,9725.29,48626.45,Tarjeta,Completada,Pendiente,Queretaro
+TXN-000036,2025-01-13 18:03:57.837837,CUST-4890,Tablet,Computacion,4,4331.87,17327.48,Transferencia,Completada,Pendiente,Puebla
+TXN-000037,2025-01-14 02:48:38.918918,CUST-9838,Laptop,Computacion,3,18941.11,56823.33,PayPal,Completada,Enviado,Veracruz
+TXN-000038,2025-01-14 11:33:20.000000,CUST-6393,Monitor,Computacion,4,5952.69,23810.76,PayPal,Cancelada,Pendiente,Puebla
+TXN-000039,2025-01-14 20:18:01.081081,CUST-9792,Audifonos,Accesorios,1,4390.54,4390.54,Tarjeta,Completada,Pendiente,Veracruz
+TXN-000040,2025-01-15 05:02:42.162162,CUST-9433,Impresora,Computacion,1,5053.21,5053.21,PayPal,Cancelada,Enviado,Oaxaca
+TXN-000041,2025-01-15 13:47:23.243243,CUST-8513,Smartphone,Telefonia,4,12608.01,50432.04,Efectivo,Completada,Cancelado,Guadalajara
+TXN-000042,2025-01-15 22:32:04.324324,CUST-3612,Tablet,Computacion,4,14721.6,58886.4,PayPal,Completada,Pendiente,Veracruz
+TXN-000043,2025-01-16 07:16:45.405405,CUST-8041,Impresora,Computacion,1,2219.68,2219.68,PayPal,Completada,Cancelado,Guadalajara
+TXN-000044,2025-01-16 16:01:26.486486,CUST-7235,Impresora,Computacion,3,4246.56,12739.68,Efectivo,Completada,Pendiente,Veracruz
+TXN-000045,2025-01-17 00:46:07.567567,CUST-6486,Mouse,Accesorios,5,254.63,1273.15,Tarjeta,Pendiente,Pendiente,Queretaro
+TXN-000046,2025-01-17 09:30:48.648648,CUST-8099,Impresora,Computacion,5,6309.38,31546.9,Tarjeta,Cancelada,Enviado,Tlaxcala
+TXN-000047,2025-01-17 18:15:29.729729,CUST-1775,Impresora,Computacion,4,7467.5,29870.0,Efectivo,Pendiente,Pendiente,Oaxaca
+TXN-000048,2025-01-18 03:00:10.810810,CUST-9226,Mouse,Accesorios,5,564.05,2820.25,Efectivo,Completada,Entregado,Ciudad de Mexico
+TXN-000049,2025-01-18 11:44:51.891891,CUST-4152,Tablet,Computacion,1,13300.1,13300.1,Efectivo,Completada,Entregado,Guadalajara
+TXN-000050,2025-01-18 20:29:32.972972,CUST-2585,Impresora,Computacion,1,3399.42,3399.42,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000051,2025-01-19 05:14:14.054054,CUST-4943,Monitor,Computacion,4,9330.78,37323.12,Efectivo,Cancelada,Cancelado,Oaxaca
+TXN-000052,2025-01-19 13:58:55.135135,CUST-8555,Monitor,Computacion,4,8154.71,32618.84,Transferencia,Completada,Cancelado,Monterrey
+TXN-000053,2025-01-19 22:43:36.216216,CUST-4073,Teclado,Accesorios,4,1668.34,6673.36,PayPal,Completada,Cancelado,Ciudad de Mexico
+TXN-000054,2025-01-20 07:28:17.297297,CUST-2021,Mouse,Accesorios,3,223.41,670.23,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000055,2025-01-20 16:12:58.378378,CUST-4843,Teclado,Accesorios,5,1936.78,9683.9,Tarjeta,Completada,Cancelado,Queretaro
+TXN-000056,2025-01-21 00:57:39.459459,CUST-8989,Mouse,Accesorios,4,1144.67,4578.68,Tarjeta,Cancelada,Cancelado,Ciudad de Mexico
+TXN-000057,2025-01-21 09:42:20.540540,CUST-7873,Audifonos,Accesorios,2,1871.38,3742.76,PayPal,Completada,Enviado,Guadalajara
+TXN-000058,2025-01-21 18:27:01.621621,CUST-6675,Audifonos,Accesorios,2,4232.28,8464.56,Transferencia,Completada,Cancelado,Tlaxcala
+TXN-000059,2025-01-22 03:11:42.702702,CUST-1161,Impresora,Computacion,1,3329.89,3329.89,Efectivo,Completada,Entregado,Ciudad de Mexico
+TXN-000060,2025-01-22 11:56:23.783783,CUST-5297,Smartphone,Telefonia,5,22455.08,112275.4,Efectivo,Completada,Entregado,Guadalajara
+TXN-000061,2025-01-22 20:41:04.864864,CUST-1995,Audifonos,Accesorios,4,1006.61,4026.44,Tarjeta,Completada,Entregado,Veracruz
+TXN-000062,2025-01-23 05:25:45.945945,CUST-8629,Smartphone,Telefonia,2,19073.72,38147.44,Tarjeta,Completada,Enviado,Oaxaca
+TXN-000063,2025-01-23 14:10:27.027027,CUST-2016,Audifonos,Accesorios,5,2933.14,14665.7,PayPal,Pendiente,Enviado,Puebla
+TXN-000064,2025-01-23 22:55:08.108108,CUST-8869,Laptop,Computacion,1,11930.69,11930.69,Transferencia,Cancelada,Pendiente,Monterrey
+TXN-000065,2025-01-24 07:39:49.189189,CUST-7439,Audifonos,Accesorios,3,1588.52,4765.56,Efectivo,Completada,Cancelado,Queretaro
+TXN-000066,2025-01-24 16:24:30.270270,CUST-8892,Teclado,Accesorios,5,321.09,1605.45,PayPal,Completada,Enviado,Puebla
+TXN-000067,2025-01-25 01:09:11.351351,CUST-7863,Tablet,Computacion,5,8625.22,43126.1,Efectivo,Cancelada,Entregado,Queretaro
+TXN-000068,2025-01-25 09:53:52.432432,CUST-8916,Impresora,Computacion,3,3458.22,10374.66,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000069,2025-01-25 18:38:33.513513,CUST-9529,Teclado,Accesorios,5,1317.21,6586.05,Efectivo,Completada,Enviado,Queretaro
+TXN-000070,2025-01-26 03:23:14.594594,CUST-1878,Tablet,Computacion,1,6566.85,6566.85,Transferencia,Completada,Enviado,Tlaxcala
+TXN-000071,2025-01-26 12:07:55.675675,CUST-5887,Monitor,Computacion,1,4749.39,4749.39,Transferencia,Completada,Enviado,Ciudad de Mexico
+TXN-000072,2025-01-26 20:52:36.756756,CUST-5859,Teclado,Accesorios,3,1563.43,4690.29,Tarjeta,Completada,Pendiente,Tlaxcala
+TXN-000073,2025-01-27 05:37:17.837837,CUST-7331,Monitor,Computacion,4,2861.07,11444.28,Transferencia,Cancelada,Entregado,Puebla
+TXN-000074,2025-01-27 14:21:58.918918,CUST-9571,Smartphone,Telefonia,2,23057.9,46115.8,Transferencia,Completada,Pendiente,Monterrey
+TXN-000075,2025-01-27 23:06:40.000000,CUST-9684,Smartphone,Telefonia,4,22045.28,88181.12,PayPal,Completada,Pendiente,Guadalajara
+TXN-000076,2025-01-28 07:51:21.081081,CUST-8208,Laptop,Computacion,5,23356.09,116780.45,Efectivo,Completada,Cancelado,Monterrey
+TXN-000077,2025-01-28 16:36:02.162162,CUST-6276,Audifonos,Accesorios,2,3169.5,6339.0,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000078,2025-01-29 01:20:43.243243,CUST-3062,Teclado,Accesorios,3,1816.91,5450.73,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000079,2025-01-29 10:05:24.324324,CUST-1064,Monitor,Computacion,3,3889.98,11669.94,Tarjeta,Completada,Enviado,Tlaxcala
+TXN-000080,2025-01-29 18:50:05.405405,CUST-9006,Tablet,Computacion,2,3947.63,7895.26,Tarjeta,Completada,Enviado,Guadalajara
+TXN-000081,2025-01-30 03:34:46.486486,CUST-3568,Smartphone,Telefonia,1,9790.2,9790.2,Tarjeta,Completada,Cancelado,Tlaxcala
+TXN-000082,2025-01-30 12:19:27.567567,CUST-6463,Audifonos,Accesorios,2,4075.6,8151.2,Transferencia,Pendiente,Pendiente,Ciudad de Mexico
+TXN-000083,2025-01-30 21:04:08.648648,CUST-3027,Smartphone,Telefonia,5,5693.41,28467.05,PayPal,Pendiente,Enviado,Veracruz
+TXN-000084,2025-01-31 05:48:49.729729,CUST-3695,Tablet,Computacion,1,9993.68,9993.68,Tarjeta,Completada,Enviado,Guadalajara
+TXN-000085,2025-01-31 14:33:30.810810,CUST-6258,Audifonos,Accesorios,3,4979.47,14938.41,PayPal,Completada,Entregado,Veracruz
+TXN-000086,2025-01-31 23:18:11.891891,CUST-6618,Audifonos,Accesorios,2,4350.63,8701.26,PayPal,Completada,Entregado,Monterrey
+TXN-000087,2025-02-01 08:02:52.972972,CUST-7736,Monitor,Computacion,4,6410.84,25643.36,Transferencia,Completada,Enviado,Ciudad de Mexico
+TXN-000088,2025-02-01 16:47:34.054054,CUST-1391,Monitor,Computacion,4,2977.31,11909.24,Tarjeta,Completada,Entregado,Queretaro
+TXN-000089,2025-02-02 01:32:15.135135,CUST-6892,Teclado,Accesorios,5,1713.33,8566.65,Transferencia,Completada,Cancelado,Queretaro
+TXN-000090,2025-02-02 10:16:56.216216,CUST-4561,Teclado,Accesorios,4,1318.26,5273.04,Tarjeta,Completada,Enviado,Veracruz
+TXN-000091,2025-02-02 19:01:37.297297,CUST-7184,Mouse,Accesorios,2,349.41,698.82,Transferencia,Pendiente,Entregado,Puebla
+TXN-000092,2025-02-03 03:46:18.378378,CUST-4099,Impresora,Computacion,2,2110.07,4220.14,PayPal,Pendiente,Cancelado,Monterrey
+TXN-000093,2025-02-03 12:30:59.459459,CUST-7278,Mouse,Accesorios,4,1382.51,5530.04,Tarjeta,Pendiente,Entregado,Veracruz
+TXN-000094,2025-02-03 21:15:40.540540,CUST-9392,Laptop,Computacion,2,23384.01,46768.02,Efectivo,Completada,Entregado,Ciudad de Mexico
+TXN-000095,2025-02-04 06:00:21.621621,CUST-4104,Smartphone,Telefonia,5,21585.74,107928.7,PayPal,Completada,Entregado,Veracruz
+TXN-000096,2025-02-04 14:45:02.702702,CUST-8215,Teclado,Accesorios,1,1794.26,1794.26,Efectivo,Completada,Enviado,Oaxaca
+TXN-000097,2025-02-04 23:29:43.783783,CUST-3454,Monitor,Computacion,5,6788.29,33941.45,PayPal,Completada,Pendiente,Tlaxcala
+TXN-000098,2025-02-05 08:14:24.864864,CUST-9996,Tablet,Computacion,5,9209.36,46046.8,Transferencia,Completada,Entregado,Puebla
+TXN-000099,2025-02-05 16:59:05.945945,CUST-3731,Monitor,Computacion,2,5728.21,11456.42,Tarjeta,Completada,Cancelado,Oaxaca
+TXN-000100,2025-02-06 01:43:47.027027,CUST-9154,Smartphone,Telefonia,1,11338.93,11338.93,PayPal,Completada,Enviado,Oaxaca
+TXN-000101,2025-02-06 10:28:28.108108,CUST-6056,Mouse,Accesorios,2,764.97,1529.94,Transferencia,Pendiente,Enviado,Ciudad de Mexico
+TXN-000102,2025-02-06 19:13:09.189189,CUST-9110,Monitor,Computacion,3,8304.1,24912.3,Tarjeta,Completada,Cancelado,Tlaxcala
+TXN-000103,2025-02-07 03:57:50.270270,CUST-4840,Impresora,Computacion,2,5412.5,10825.0,Tarjeta,Completada,Entregado,Tlaxcala
+TXN-000104,2025-02-07 12:42:31.351351,CUST-2028,Laptop,Computacion,2,27850.47,55700.94,PayPal,Completada,Pendiente,Guadalajara
+TXN-000105,2025-02-07 21:27:12.432432,CUST-8385,Smartphone,Telefonia,2,13867.6,27735.2,Tarjeta,Completada,Entregado,Monterrey
+TXN-000106,2025-02-08 06:11:53.513513,CUST-1502,Mouse,Accesorios,1,989.22,989.22,PayPal,Completada,Cancelado,Puebla
+TXN-000107,2025-02-08 14:56:34.594594,CUST-7910,Impresora,Computacion,2,5603.5,11207.0,Tarjeta,Completada,Enviado,Monterrey
+TXN-000108,2025-02-08 23:41:15.675675,CUST-7938,Tablet,Computacion,1,10100.37,10100.37,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000109,2025-02-09 08:25:56.756756,CUST-5488,Mouse,Accesorios,4,1113.42,4453.68,Transferencia,Completada,Enviado,Puebla
+TXN-000110,2025-02-09 17:10:37.837837,CUST-1206,Audifonos,Accesorios,3,1568.45,4705.35,Efectivo,Completada,Cancelado,Guadalajara
+TXN-000111,2025-02-10 01:55:18.918918,CUST-6134,Impresora,Computacion,1,4830.36,4830.36,PayPal,Completada,Entregado,Veracruz
+TXN-000112,2025-02-10 10:40:00.000000,CUST-6977,Impresora,Computacion,4,2177.46,8709.84,Efectivo,Completada,Pendiente,Oaxaca
+TXN-000113,2025-02-10 19:24:41.081081,CUST-8721,Laptop,Computacion,1,17690.23,17690.23,PayPal,Pendiente,Enviado,Puebla
+TXN-000114,2025-02-11 04:09:22.162162,CUST-8035,Smartphone,Telefonia,1,14753.34,14753.34,Tarjeta,Completada,Enviado,Monterrey
+TXN-000115,2025-02-11 12:54:03.243243,CUST-2484,Tablet,Computacion,3,10826.69,32480.07,Tarjeta,Completada,Enviado,Oaxaca
+TXN-000116,2025-02-11 21:38:44.324324,CUST-8858,Laptop,Computacion,5,29010.62,145053.1,PayPal,Completada,Entregado,Ciudad de Mexico
+TXN-000117,2025-02-12 06:23:25.405405,CUST-1863,Mouse,Accesorios,5,980.85,4904.25,Efectivo,Cancelada,Pendiente,Monterrey
+TXN-000118,2025-02-12 15:08:06.486486,CUST-3790,Laptop,Computacion,1,24871.88,24871.88,Tarjeta,Pendiente,Entregado,Veracruz
+TXN-000119,2025-02-12 23:52:47.567567,CUST-8408,Impresora,Computacion,2,4790.73,9581.46,Transferencia,Completada,Entregado,Ciudad de Mexico
+TXN-000120,2025-02-13 08:37:28.648648,CUST-9755,Smartphone,Telefonia,4,17682.08,70728.32,Tarjeta,Completada,Entregado,Queretaro
+TXN-000121,2025-02-13 17:22:09.729729,CUST-6116,Teclado,Accesorios,2,420.58,841.16,Transferencia,Pendiente,Cancelado,Veracruz
+TXN-000122,2025-02-14 02:06:50.810810,CUST-7019,Laptop,Computacion,2,15087.83,30175.66,Efectivo,Completada,Cancelado,Veracruz
+TXN-000123,2025-02-14 10:51:31.891891,CUST-2757,Audifonos,Accesorios,1,2128.34,2128.34,Transferencia,Completada,Cancelado,Oaxaca
+TXN-000124,2025-02-14 19:36:12.972972,CUST-8574,Laptop,Computacion,1,19449.87,19449.87,Transferencia,Completada,Pendiente,Ciudad de Mexico
+TXN-000125,2025-02-15 04:20:54.054054,CUST-7374,Mouse,Accesorios,1,259.34,259.34,Transferencia,Pendiente,Entregado,Ciudad de Mexico
+TXN-000126,2025-02-15 13:05:35.135135,CUST-7892,Mouse,Accesorios,1,382.03,382.03,Transferencia,Pendiente,Entregado,Puebla
+TXN-000127,2025-02-15 21:50:16.216216,CUST-2678,Tablet,Computacion,5,6321.77,31608.85,Tarjeta,Completada,Cancelado,Monterrey
+TXN-000128,2025-02-16 06:34:57.297297,CUST-4242,Mouse,Accesorios,1,1462.99,1462.99,Transferencia,Completada,Entregado,Queretaro
+TXN-000129,2025-02-16 15:19:38.378378,CUST-5636,Monitor,Computacion,5,4985.1,24925.5,Tarjeta,Completada,Entregado,Ciudad de Mexico
+TXN-000130,2025-02-17 00:04:19.459459,CUST-2059,Smartphone,Telefonia,5,14640.82,73204.1,Transferencia,Completada,Enviado,Puebla
+TXN-000131,2025-02-17 08:49:00.540540,CUST-7668,Smartphone,Telefonia,1,8921.95,8921.95,PayPal,Cancelada,Entregado,Queretaro
+TXN-000132,2025-02-17 17:33:41.621621,CUST-4157,Teclado,Accesorios,3,1338.33,4014.99,Efectivo,Completada,Enviado,Tlaxcala
+TXN-000133,2025-02-18 02:18:22.702702,CUST-6915,Teclado,Accesorios,4,777.16,3108.64,Transferencia,Completada,Entregado,Tlaxcala
+TXN-000134,2025-02-18 11:03:03.783783,CUST-3693,Smartphone,Telefonia,2,9139.85,18279.7,PayPal,Completada,Pendiente,Queretaro
+TXN-000135,2025-02-18 19:47:44.864864,CUST-4627,Audifonos,Accesorios,5,2824.58,14122.9,Transferencia,Completada,Cancelado,Tlaxcala
+TXN-000136,2025-02-19 04:32:25.945945,CUST-6450,Teclado,Accesorios,4,309.36,1237.44,Transferencia,Completada,Enviado,Guadalajara
+TXN-000137,2025-02-19 13:17:07.027027,CUST-2663,Tablet,Computacion,3,3091.97,9275.91,Transferencia,Completada,Cancelado,Ciudad de Mexico
+TXN-000138,2025-02-19 22:01:48.108108,CUST-6592,Mouse,Accesorios,2,484.79,969.58,PayPal,Completada,Enviado,Guadalajara
+TXN-000139,2025-02-20 06:46:29.189189,CUST-8392,Smartphone,Telefonia,2,5734.43,11468.86,Efectivo,Completada,Enviado,Monterrey
+TXN-000140,2025-02-20 15:31:10.270270,CUST-2306,Impresora,Computacion,5,2202.17,11010.85,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000141,2025-02-21 00:15:51.351351,CUST-7776,Teclado,Accesorios,1,876.06,876.06,Efectivo,Completada,Pendiente,Puebla
+TXN-000142,2025-02-21 09:00:32.432432,CUST-6864,Smartphone,Telefonia,3,21051.71,63155.13,Transferencia,Completada,Entregado,Guadalajara
+TXN-000143,2025-02-21 17:45:13.513513,CUST-8526,Monitor,Computacion,5,6790.36,33951.8,Tarjeta,Cancelada,Enviado,Guadalajara
+TXN-000144,2025-02-22 02:29:54.594594,CUST-9901,Laptop,Computacion,3,20253.35,60760.05,Transferencia,Pendiente,Pendiente,Monterrey
+TXN-000145,2025-02-22 11:14:35.675675,CUST-6575,Mouse,Accesorios,1,581.54,581.54,Efectivo,Cancelada,Enviado,Guadalajara
+TXN-000146,2025-02-22 19:59:16.756756,CUST-6530,Smartphone,Telefonia,1,23635.07,23635.07,PayPal,Completada,Entregado,Veracruz
+TXN-000147,2025-02-23 04:43:57.837837,CUST-5413,Laptop,Computacion,5,17940.3,89701.5,Transferencia,Cancelada,Enviado,Puebla
+TXN-000148,2025-02-23 13:28:38.918918,CUST-4748,Teclado,Accesorios,1,448.06,448.06,PayPal,Completada,Pendiente,Tlaxcala
+TXN-000149,2025-02-23 22:13:20.000000,CUST-1663,Laptop,Computacion,4,22341.33,89365.32,PayPal,Completada,Entregado,Puebla
+TXN-000150,2025-02-24 06:58:01.081081,CUST-2998,Mouse,Accesorios,2,347.99,695.98,PayPal,Completada,Pendiente,Veracruz
+TXN-000151,2025-02-24 15:42:42.162162,CUST-8994,Smartphone,Telefonia,5,11904.46,59522.3,Transferencia,Completada,Entregado,Monterrey
+TXN-000152,2025-02-25 00:27:23.243243,CUST-2495,Monitor,Computacion,3,6305.59,18916.77,PayPal,Completada,Entregado,Monterrey
+TXN-000153,2025-02-25 09:12:04.324324,CUST-4304,Audifonos,Accesorios,4,4434.0,17736.0,PayPal,Completada,Cancelado,Ciudad de Mexico
+TXN-000154,2025-02-25 17:56:45.405405,CUST-4763,Teclado,Accesorios,5,1139.03,5695.15,Transferencia,Completada,Cancelado,Puebla
+TXN-000155,2025-02-26 02:41:26.486486,CUST-6232,Smartphone,Telefonia,1,19045.18,19045.18,PayPal,Completada,Cancelado,Queretaro
+TXN-000156,2025-02-26 11:26:07.567567,CUST-2853,Mouse,Accesorios,1,1490.66,1490.66,Transferencia,Completada,Entregado,Queretaro
+TXN-000157,2025-02-26 20:10:48.648648,CUST-7585,Teclado,Accesorios,1,523.53,523.53,Efectivo,Completada,Enviado,Monterrey
+TXN-000158,2025-02-27 04:55:29.729729,CUST-2291,Tablet,Computacion,1,6296.78,6296.78,Efectivo,Completada,Pendiente,Guadalajara
+TXN-000159,2025-02-27 13:40:10.810810,CUST-4581,Laptop,Computacion,3,17891.52,53674.56,Efectivo,Pendiente,Pendiente,Monterrey
+TXN-000160,2025-02-27 22:24:51.891891,CUST-8554,Audifonos,Accesorios,4,2398.23,9592.92,PayPal,Pendiente,Pendiente,Monterrey
+TXN-000161,2025-02-28 07:09:32.972972,CUST-8280,Mouse,Accesorios,2,734.33,1468.66,Tarjeta,Completada,Cancelado,Monterrey
+TXN-000162,2025-02-28 15:54:14.054054,CUST-2636,Tablet,Computacion,3,13891.33,41673.99,Tarjeta,Completada,Entregado,Monterrey
+TXN-000163,2025-03-01 00:38:55.135135,CUST-4696,Impresora,Computacion,3,6141.21,18423.63,PayPal,Completada,Cancelado,Queretaro
+TXN-000164,2025-03-01 09:23:36.216216,CUST-1698,Smartphone,Telefonia,2,17158.1,34316.2,Tarjeta,Pendiente,Enviado,Queretaro
+TXN-000165,2025-03-01 18:08:17.297297,CUST-5737,Monitor,Computacion,2,4820.3,9640.6,Transferencia,Completada,Entregado,Tlaxcala
+TXN-000166,2025-03-02 02:52:58.378378,CUST-1854,Teclado,Accesorios,1,1700.44,1700.44,Tarjeta,Completada,Pendiente,Tlaxcala
+TXN-000167,2025-03-02 11:37:39.459459,CUST-9164,Laptop,Computacion,3,29101.21,87303.63,PayPal,Completada,Cancelado,Ciudad de Mexico
+TXN-000168,2025-03-02 20:22:20.540540,CUST-6855,Teclado,Accesorios,5,1696.04,8480.2,PayPal,Completada,Cancelado,Monterrey
+TXN-000169,2025-03-03 05:07:01.621621,CUST-8392,Audifonos,Accesorios,2,507.04,1014.08,Transferencia,Completada,Enviado,Queretaro
+TXN-000170,2025-03-03 13:51:42.702702,CUST-7528,Smartphone,Telefonia,2,17728.03,35456.06,Efectivo,Pendiente,Enviado,Puebla
+TXN-000171,2025-03-03 22:36:23.783783,CUST-6249,Teclado,Accesorios,4,386.93,1547.72,PayPal,Completada,Cancelado,Veracruz
+TXN-000172,2025-03-04 07:21:04.864864,CUST-6172,Laptop,Computacion,5,15152.14,75760.7,Transferencia,Completada,Enviado,Ciudad de Mexico
+TXN-000173,2025-03-04 16:05:45.945945,CUST-2707,Smartphone,Telefonia,5,6190.49,30952.45,Tarjeta,Pendiente,Pendiente,Queretaro
+TXN-000174,2025-03-05 00:50:27.027027,CUST-6791,Teclado,Accesorios,2,1326.45,2652.9,Tarjeta,Pendiente,Enviado,Puebla
+TXN-000175,2025-03-05 09:35:08.108108,CUST-6535,Monitor,Computacion,1,7649.42,7649.42,Transferencia,Completada,Enviado,Monterrey
+TXN-000176,2025-03-05 18:19:49.189189,CUST-5931,Mouse,Accesorios,4,348.83,1395.32,Transferencia,Completada,Cancelado,Oaxaca
+TXN-000177,2025-03-06 03:04:30.270270,CUST-4510,Smartphone,Telefonia,5,12676.78,63383.9,PayPal,Completada,Cancelado,Monterrey
+TXN-000178,2025-03-06 11:49:11.351351,CUST-1202,Mouse,Accesorios,2,793.11,1586.22,Tarjeta,Cancelada,Entregado,Tlaxcala
+TXN-000179,2025-03-06 20:33:52.432432,CUST-5218,Impresora,Computacion,5,3898.84,19494.2,Transferencia,Completada,Entregado,Veracruz
+TXN-000180,2025-03-07 05:18:33.513513,CUST-9958,Smartphone,Telefonia,4,7420.5,29682.0,Tarjeta,Cancelada,Cancelado,Queretaro
+TXN-000181,2025-03-07 14:03:14.594594,CUST-5389,Monitor,Computacion,4,5642.11,22568.44,Transferencia,Completada,Enviado,Queretaro
+TXN-000182,2025-03-07 22:47:55.675675,CUST-3327,Mouse,Accesorios,3,1176.53,3529.59,Tarjeta,Completada,Enviado,Guadalajara
+TXN-000183,2025-03-08 07:32:36.756756,CUST-9004,Tablet,Computacion,2,3852.09,7704.18,Efectivo,Completada,Entregado,Veracruz
+TXN-000184,2025-03-08 16:17:17.837837,CUST-3931,Laptop,Computacion,4,11603.6,46414.4,PayPal,Completada,Entregado,Guadalajara
+TXN-000185,2025-03-09 01:01:58.918918,CUST-8777,Tablet,Computacion,3,7257.26,21771.78,Tarjeta,Completada,Entregado,Veracruz
+TXN-000186,2025-03-09 09:46:40.000000,CUST-1197,Teclado,Accesorios,3,1900.93,5702.79,Efectivo,Completada,Pendiente,Tlaxcala
+TXN-000187,2025-03-09 18:31:21.081081,CUST-8125,Monitor,Computacion,5,7514.29,37571.45,Tarjeta,Completada,Pendiente,Guadalajara
+TXN-000188,2025-03-10 03:16:02.162162,CUST-2930,Tablet,Computacion,5,11144.04,55720.2,Tarjeta,Cancelada,Entregado,Puebla
+TXN-000189,2025-03-10 12:00:43.243243,CUST-7287,Smartphone,Telefonia,3,12238.4,36715.2,Efectivo,Completada,Enviado,Guadalajara
+TXN-000190,2025-03-10 20:45:24.324324,CUST-9800,Teclado,Accesorios,5,1309.22,6546.1,Tarjeta,Completada,Entregado,Ciudad de Mexico
+TXN-000191,2025-03-11 05:30:05.405405,CUST-5282,Teclado,Accesorios,4,317.22,1268.88,Tarjeta,Completada,Pendiente,Puebla
+TXN-000192,2025-03-11 14:14:46.486486,CUST-3511,Tablet,Computacion,1,10633.15,10633.15,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000193,2025-03-11 22:59:27.567567,CUST-1659,Impresora,Computacion,4,7436.37,29745.48,Efectivo,Completada,Pendiente,Monterrey
+TXN-000194,2025-03-12 07:44:08.648648,CUST-3811,Tablet,Computacion,3,10350.88,31052.64,Efectivo,Completada,Enviado,Veracruz
+TXN-000195,2025-03-12 16:28:49.729729,CUST-8098,Impresora,Computacion,3,7179.04,21537.12,Transferencia,Cancelada,Pendiente,Puebla
+TXN-000196,2025-03-13 01:13:30.810810,CUST-7546,Monitor,Computacion,4,7929.8,31719.2,Tarjeta,Completada,Enviado,Veracruz
+TXN-000197,2025-03-13 09:58:11.891891,CUST-2986,Laptop,Computacion,5,12411.17,62055.85,PayPal,Completada,Enviado,Monterrey
+TXN-000198,2025-03-13 18:42:52.972972,CUST-9338,Tablet,Computacion,5,13829.44,69147.2,Tarjeta,Completada,Enviado,Oaxaca
+TXN-000199,2025-03-14 03:27:34.054054,CUST-3911,Audifonos,Accesorios,3,799.0,2397.0,Tarjeta,Completada,Enviado,Queretaro
+TXN-000200,2025-03-14 12:12:15.135135,CUST-2734,Impresora,Computacion,2,4970.79,9941.58,Transferencia,Completada,Cancelado,Veracruz
+TXN-000201,2025-03-14 20:56:56.216216,CUST-2843,Tablet,Computacion,5,4705.65,23528.25,Tarjeta,Pendiente,Pendiente,Monterrey
+TXN-000202,2025-03-15 05:41:37.297297,CUST-9680,Mouse,Accesorios,4,215.22,860.88,PayPal,Pendiente,Pendiente,Veracruz
+TXN-000203,2025-03-15 14:26:18.378378,CUST-3976,Smartphone,Telefonia,5,13440.69,67203.45,PayPal,Completada,Cancelado,Monterrey
+TXN-000204,2025-03-15 23:10:59.459459,CUST-2959,Audifonos,Accesorios,4,1827.68,7310.72,Transferencia,Completada,Enviado,Ciudad de Mexico
+TXN-000205,2025-03-16 07:55:40.540540,CUST-6759,Audifonos,Accesorios,3,2687.0,8061.0,Tarjeta,Completada,Enviado,Monterrey
+TXN-000206,2025-03-16 16:40:21.621621,CUST-7694,Impresora,Computacion,5,5251.8,26259.0,PayPal,Completada,Pendiente,Guadalajara
+TXN-000207,2025-03-17 01:25:02.702702,CUST-3385,Mouse,Accesorios,4,256.86,1027.44,Tarjeta,Completada,Cancelado,Oaxaca
+TXN-000208,2025-03-17 10:09:43.783783,CUST-5736,Mouse,Accesorios,3,359.9,1079.7,Tarjeta,Completada,Enviado,Veracruz
+TXN-000209,2025-03-17 18:54:24.864864,CUST-2802,Teclado,Accesorios,2,1249.69,2499.38,Tarjeta,Completada,Enviado,Monterrey
+TXN-000210,2025-03-18 03:39:05.945945,CUST-9155,Impresora,Computacion,4,3730.59,14922.36,Transferencia,Completada,Enviado,Monterrey
+TXN-000211,2025-03-18 12:23:47.027027,CUST-9120,Laptop,Computacion,2,24583.47,49166.94,Tarjeta,Completada,Entregado,Veracruz
+TXN-000212,2025-03-18 21:08:28.108108,CUST-7616,Smartphone,Telefonia,2,18045.83,36091.66,PayPal,Completada,Cancelado,Queretaro
+TXN-000213,2025-03-19 05:53:09.189189,CUST-6534,Monitor,Computacion,1,8842.03,8842.03,Tarjeta,Completada,Enviado,Oaxaca
+TXN-000214,2025-03-19 14:37:50.270270,CUST-5061,Audifonos,Accesorios,5,3616.22,18081.1,PayPal,Completada,Entregado,Oaxaca
+TXN-000215,2025-03-19 23:22:31.351351,CUST-1262,Monitor,Computacion,4,5724.48,22897.92,Tarjeta,Pendiente,Cancelado,Monterrey
+TXN-000216,2025-03-20 08:07:12.432432,CUST-7287,Tablet,Computacion,2,11075.6,22151.2,PayPal,Completada,Enviado,Puebla
+TXN-000217,2025-03-20 16:51:53.513513,CUST-9815,Tablet,Computacion,1,6304.57,6304.57,PayPal,Completada,Pendiente,Ciudad de Mexico
+TXN-000218,2025-03-21 01:36:34.594594,CUST-3049,Monitor,Computacion,3,4797.35,14392.05,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000219,2025-03-21 10:21:15.675675,CUST-6423,Tablet,Computacion,4,12467.82,49871.28,Tarjeta,Pendiente,Entregado,Oaxaca
+TXN-000220,2025-03-21 19:05:56.756756,CUST-5548,Laptop,Computacion,2,18928.39,37856.78,PayPal,Completada,Enviado,Tlaxcala
+TXN-000221,2025-03-22 03:50:37.837837,CUST-4108,Mouse,Accesorios,5,1237.89,6189.45,Efectivo,Completada,Enviado,Guadalajara
+TXN-000222,2025-03-22 12:35:18.918918,CUST-8158,Tablet,Computacion,1,12869.07,12869.07,Transferencia,Completada,Entregado,Oaxaca
+TXN-000223,2025-03-22 21:20:00.000000,CUST-8400,Teclado,Accesorios,2,1757.86,3515.72,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000224,2025-03-23 06:04:41.081081,CUST-4170,Tablet,Computacion,5,13999.62,69998.1,Efectivo,Cancelada,Pendiente,Guadalajara
+TXN-000225,2025-03-23 14:49:22.162162,CUST-3255,Smartphone,Telefonia,2,13619.7,27239.4,Tarjeta,Completada,Cancelado,Guadalajara
+TXN-000226,2025-03-23 23:34:03.243243,CUST-2154,Laptop,Computacion,4,16377.34,65509.36,Transferencia,Pendiente,Enviado,Veracruz
+TXN-000227,2025-03-24 08:18:44.324324,CUST-5499,Smartphone,Telefonia,4,16643.97,66575.88,Efectivo,Cancelada,Pendiente,Veracruz
+TXN-000228,2025-03-24 17:03:25.405405,CUST-7295,Smartphone,Telefonia,4,12423.45,49693.8,Tarjeta,Pendiente,Cancelado,Veracruz
+TXN-000229,2025-03-25 01:48:06.486486,CUST-7197,Teclado,Accesorios,1,1321.83,1321.83,Efectivo,Completada,Pendiente,Veracruz
+TXN-000230,2025-03-25 10:32:47.567567,CUST-2648,Laptop,Computacion,4,24111.72,96446.88,Efectivo,Completada,Enviado,Tlaxcala
+TXN-000231,2025-03-25 19:17:28.648648,CUST-6539,Laptop,Computacion,5,23768.1,118840.5,Tarjeta,Completada,Cancelado,Oaxaca
+TXN-000232,2025-03-26 04:02:09.729729,CUST-5199,Impresora,Computacion,2,3934.59,7869.18,Tarjeta,Completada,Cancelado,Veracruz
+TXN-000233,2025-03-26 12:46:50.810810,CUST-9445,Laptop,Computacion,3,13337.2,40011.6,Tarjeta,Completada,Cancelado,Monterrey
+TXN-000234,2025-03-26 21:31:31.891891,CUST-3557,Laptop,Computacion,5,18610.59,93052.95,Transferencia,Completada,Pendiente,Puebla
+TXN-000235,2025-03-27 06:16:12.972972,CUST-6592,Laptop,Computacion,5,12851.88,64259.4,Efectivo,Completada,Enviado,Veracruz
+TXN-000236,2025-03-27 15:00:54.054054,CUST-1098,Teclado,Accesorios,4,1813.16,7252.64,Tarjeta,Completada,Cancelado,Oaxaca
+TXN-000237,2025-03-27 23:45:35.135135,CUST-3200,Tablet,Computacion,1,7150.53,7150.53,PayPal,Pendiente,Entregado,Veracruz
+TXN-000238,2025-03-28 08:30:16.216216,CUST-3961,Impresora,Computacion,2,2503.99,5007.98,Efectivo,Completada,Enviado,Tlaxcala
+TXN-000239,2025-03-28 17:14:57.297297,CUST-5973,Smartphone,Telefonia,1,5508.96,5508.96,PayPal,Pendiente,Entregado,Ciudad de Mexico
+TXN-000240,2025-03-29 01:59:38.378378,CUST-5433,Laptop,Computacion,2,22916.45,45832.9,Transferencia,Completada,Entregado,Ciudad de Mexico
+TXN-000241,2025-03-29 10:44:19.459459,CUST-3869,Audifonos,Accesorios,2,3366.06,6732.12,Tarjeta,Pendiente,Cancelado,Oaxaca
+TXN-000242,2025-03-29 19:29:00.540540,CUST-1956,Tablet,Computacion,1,7087.25,7087.25,PayPal,Completada,Cancelado,Monterrey
+TXN-000243,2025-03-30 04:13:41.621621,CUST-9352,Tablet,Computacion,5,3860.54,19302.7,Transferencia,Completada,Pendiente,Ciudad de Mexico
+TXN-000244,2025-03-30 12:58:22.702702,CUST-6699,Smartphone,Telefonia,2,13192.58,26385.16,Tarjeta,Pendiente,Pendiente,Queretaro
+TXN-000245,2025-03-30 21:43:03.783783,CUST-7944,Teclado,Accesorios,1,829.07,829.07,PayPal,Completada,Pendiente,Ciudad de Mexico
+TXN-000246,2025-03-31 06:27:44.864864,CUST-5493,Monitor,Computacion,2,7578.4,15156.8,PayPal,Pendiente,Enviado,Puebla
+TXN-000247,2025-03-31 15:12:25.945945,CUST-5911,Monitor,Computacion,3,7043.34,21130.02,Transferencia,Completada,Pendiente,Oaxaca
+TXN-000248,2025-03-31 23:57:07.027027,CUST-4987,Tablet,Computacion,5,7375.12,36875.6,Tarjeta,Completada,Entregado,Monterrey
+TXN-000249,2025-04-01 08:41:48.108108,CUST-7015,Mouse,Accesorios,4,483.26,1933.04,Tarjeta,Completada,Pendiente,Oaxaca
+TXN-000250,2025-04-01 17:26:29.189189,CUST-2218,Mouse,Accesorios,2,1484.45,2968.9,PayPal,Completada,Cancelado,Ciudad de Mexico
+TXN-000251,2025-04-02 02:11:10.270270,CUST-5496,Smartphone,Telefonia,3,14080.03,42240.09,PayPal,Completada,Pendiente,Ciudad de Mexico
+TXN-000252,2025-04-02 10:55:51.351351,CUST-5735,Monitor,Computacion,4,7662.06,30648.24,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000253,2025-04-02 19:40:32.432432,CUST-5555,Tablet,Computacion,4,4686.64,18746.56,Tarjeta,Completada,Enviado,Guadalajara
+TXN-000254,2025-04-03 04:25:13.513513,CUST-9050,Teclado,Accesorios,2,1125.5,2251.0,Transferencia,Completada,Entregado,Tlaxcala
+TXN-000255,2025-04-03 13:09:54.594594,CUST-4446,Monitor,Computacion,1,2706.53,2706.53,Transferencia,Cancelada,Enviado,Veracruz
+TXN-000256,2025-04-03 21:54:35.675675,CUST-2045,Tablet,Computacion,2,9065.46,18130.92,Tarjeta,Cancelada,Pendiente,Queretaro
+TXN-000257,2025-04-04 06:39:16.756756,CUST-7893,Tablet,Computacion,3,14568.21,43704.63,Efectivo,Completada,Cancelado,Tlaxcala
+TXN-000258,2025-04-04 15:23:57.837837,CUST-2693,Laptop,Computacion,4,17684.13,70736.52,Transferencia,Completada,Enviado,Oaxaca
+TXN-000259,2025-04-05 00:08:38.918918,CUST-4436,Teclado,Accesorios,2,366.29,732.58,PayPal,Completada,Entregado,Queretaro
+TXN-000260,2025-04-05 08:53:20.000000,CUST-9754,Laptop,Computacion,1,10619.12,10619.12,Efectivo,Completada,Pendiente,Puebla
+TXN-000261,2025-04-05 17:38:01.081081,CUST-6895,Smartphone,Telefonia,2,12759.74,25519.48,Efectivo,Pendiente,Entregado,Veracruz
+TXN-000262,2025-04-06 02:22:42.162162,CUST-4354,Laptop,Computacion,5,13200.5,66002.5,Transferencia,Cancelada,Enviado,Puebla
+TXN-000263,2025-04-06 11:07:23.243243,CUST-1225,Audifonos,Accesorios,1,605.08,605.08,Efectivo,Completada,Enviado,Monterrey
+TXN-000264,2025-04-06 19:52:04.324324,CUST-5893,Laptop,Computacion,3,25124.27,75372.81,Efectivo,Completada,Entregado,Guadalajara
+TXN-000265,2025-04-07 04:36:45.405405,CUST-8022,Audifonos,Accesorios,4,2563.35,10253.4,Transferencia,Completada,Pendiente,Oaxaca
+TXN-000266,2025-04-07 13:21:26.486486,CUST-6600,Monitor,Computacion,2,4669.34,9338.68,Transferencia,Cancelada,Enviado,Guadalajara
+TXN-000267,2025-04-07 22:06:07.567567,CUST-8996,Mouse,Accesorios,1,1370.11,1370.11,Efectivo,Completada,Cancelado,Oaxaca
+TXN-000268,2025-04-08 06:50:48.648648,CUST-8683,Impresora,Computacion,5,2254.9,11274.5,PayPal,Completada,Enviado,Puebla
+TXN-000269,2025-04-08 15:35:29.729729,CUST-5642,Impresora,Computacion,1,7713.47,7713.47,Tarjeta,Completada,Pendiente,Puebla
+TXN-000270,2025-04-09 00:20:10.810810,CUST-8679,Tablet,Computacion,5,6767.6,33838.0,Efectivo,Completada,Enviado,Puebla
+TXN-000271,2025-04-09 09:04:51.891891,CUST-9208,Impresora,Computacion,3,7274.62,21823.86,Efectivo,Completada,Entregado,Oaxaca
+TXN-000272,2025-04-09 17:49:32.972972,CUST-8339,Audifonos,Accesorios,4,3213.24,12852.96,PayPal,Cancelada,Enviado,Ciudad de Mexico
+TXN-000273,2025-04-10 02:34:14.054054,CUST-3205,Teclado,Accesorios,3,1705.4,5116.2,Efectivo,Completada,Enviado,Puebla
+TXN-000274,2025-04-10 11:18:55.135135,CUST-2069,Laptop,Computacion,2,29680.26,59360.52,Efectivo,Completada,Pendiente,Guadalajara
+TXN-000275,2025-04-10 20:03:36.216216,CUST-4444,Audifonos,Accesorios,1,1797.82,1797.82,Tarjeta,Completada,Entregado,Monterrey
+TXN-000276,2025-04-11 04:48:17.297297,CUST-2060,Teclado,Accesorios,5,1933.93,9669.65,Tarjeta,Completada,Pendiente,Veracruz
+TXN-000277,2025-04-11 13:32:58.378378,CUST-3327,Mouse,Accesorios,5,706.33,3531.65,Tarjeta,Completada,Enviado,Oaxaca
+TXN-000278,2025-04-11 22:17:39.459459,CUST-4420,Impresora,Computacion,1,4005.83,4005.83,Transferencia,Completada,Cancelado,Queretaro
+TXN-000279,2025-04-12 07:02:20.540540,CUST-1301,Mouse,Accesorios,1,642.5,642.5,Transferencia,Completada,Enviado,Guadalajara
+TXN-000280,2025-04-12 15:47:01.621621,CUST-1606,Impresora,Computacion,2,5019.15,10038.3,Tarjeta,Completada,Pendiente,Tlaxcala
+TXN-000281,2025-04-13 00:31:42.702702,CUST-4170,Laptop,Computacion,3,13082.9,39248.7,Tarjeta,Completada,Cancelado,Monterrey
+TXN-000282,2025-04-13 09:16:23.783783,CUST-1699,Smartphone,Telefonia,5,16074.23,80371.15,Transferencia,Completada,Pendiente,Tlaxcala
+TXN-000283,2025-04-13 18:01:04.864864,CUST-6088,Laptop,Computacion,2,20834.1,41668.2,PayPal,Pendiente,Pendiente,Veracruz
+TXN-000284,2025-04-14 02:45:45.945945,CUST-1190,Monitor,Computacion,3,8214.26,24642.78,Efectivo,Completada,Entregado,Ciudad de Mexico
+TXN-000285,2025-04-14 11:30:27.027027,CUST-1980,Audifonos,Accesorios,2,4251.42,8502.84,Efectivo,Completada,Cancelado,Puebla
+TXN-000286,2025-04-14 20:15:08.108108,CUST-3975,Tablet,Computacion,5,8285.3,41426.5,Tarjeta,Completada,Enviado,Oaxaca
+TXN-000287,2025-04-15 04:59:49.189189,CUST-7102,Smartphone,Telefonia,1,11046.66,11046.66,PayPal,Completada,Pendiente,Guadalajara
+TXN-000288,2025-04-15 13:44:30.270270,CUST-2184,Laptop,Computacion,1,15186.7,15186.7,Transferencia,Completada,Enviado,Queretaro
+TXN-000289,2025-04-15 22:29:11.351351,CUST-4327,Teclado,Accesorios,3,630.86,1892.58,Tarjeta,Completada,Entregado,Puebla
+TXN-000290,2025-04-16 07:13:52.432432,CUST-4394,Smartphone,Telefonia,4,6152.95,24611.8,PayPal,Completada,Entregado,Guadalajara
+TXN-000291,2025-04-16 15:58:33.513513,CUST-9319,Audifonos,Accesorios,3,2041.02,6123.06,PayPal,Completada,Cancelado,Oaxaca
+TXN-000292,2025-04-17 00:43:14.594594,CUST-2816,Impresora,Computacion,4,3256.61,13026.44,PayPal,Completada,Entregado,Tlaxcala
+TXN-000293,2025-04-17 09:27:55.675675,CUST-6854,Smartphone,Telefonia,2,24328.35,48656.7,Transferencia,Pendiente,Entregado,Puebla
+TXN-000294,2025-04-17 18:12:36.756756,CUST-7709,Impresora,Computacion,2,5125.11,10250.22,Transferencia,Cancelada,Enviado,Veracruz
+TXN-000295,2025-04-18 02:57:17.837837,CUST-1569,Audifonos,Accesorios,5,2062.75,10313.75,Efectivo,Completada,Entregado,Ciudad de Mexico
+TXN-000296,2025-04-18 11:41:58.918918,CUST-6442,Laptop,Computacion,4,21609.35,86437.4,Efectivo,Completada,Entregado,Veracruz
+TXN-000297,2025-04-18 20:26:40.000000,CUST-2895,Audifonos,Accesorios,5,1126.39,5631.95,PayPal,Pendiente,Pendiente,Ciudad de Mexico
+TXN-000298,2025-04-19 05:11:21.081081,CUST-3733,Smartphone,Telefonia,1,13880.87,13880.87,PayPal,Cancelada,Entregado,Monterrey
+TXN-000299,2025-04-19 13:56:02.162162,CUST-4863,Teclado,Accesorios,4,1364.6,5458.4,Transferencia,Completada,Pendiente,Guadalajara
+TXN-000300,2025-04-19 22:40:43.243243,CUST-8455,Mouse,Accesorios,3,835.57,2506.71,Efectivo,Completada,Entregado,Puebla
+TXN-000301,2025-04-20 07:25:24.324324,CUST-5014,Smartphone,Telefonia,1,13035.58,13035.58,PayPal,Completada,Entregado,Puebla
+TXN-000302,2025-04-20 16:10:05.405405,CUST-2686,Audifonos,Accesorios,1,4972.32,4972.32,Efectivo,Completada,Cancelado,Monterrey
+TXN-000303,2025-04-21 00:54:46.486486,CUST-4009,Mouse,Accesorios,3,1344.41,4033.23,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000304,2025-04-21 09:39:27.567567,CUST-8806,Audifonos,Accesorios,1,3305.33,3305.33,PayPal,Completada,Pendiente,Tlaxcala
+TXN-000305,2025-04-21 18:24:08.648648,CUST-1154,Teclado,Accesorios,4,1267.94,5071.76,Transferencia,Completada,Entregado,Oaxaca
+TXN-000306,2025-04-22 03:08:49.729729,CUST-2409,Audifonos,Accesorios,5,3292.97,16464.85,PayPal,Completada,Enviado,Veracruz
+TXN-000307,2025-04-22 11:53:30.810810,CUST-1784,Laptop,Computacion,1,14026.24,14026.24,PayPal,Completada,Cancelado,Monterrey
+TXN-000308,2025-04-22 20:38:11.891891,CUST-9096,Tablet,Computacion,4,7741.65,30966.6,Efectivo,Completada,Enviado,Queretaro
+TXN-000309,2025-04-23 05:22:52.972972,CUST-8560,Impresora,Computacion,2,1756.49,3512.98,PayPal,Completada,Cancelado,Queretaro
+TXN-000310,2025-04-23 14:07:34.054054,CUST-8343,Impresora,Computacion,4,4591.05,18364.2,Transferencia,Completada,Cancelado,Guadalajara
+TXN-000311,2025-04-23 22:52:15.135135,CUST-8206,Smartphone,Telefonia,5,15860.49,79302.45,PayPal,Completada,Entregado,Monterrey
+TXN-000312,2025-04-24 07:36:56.216216,CUST-6596,Tablet,Computacion,4,5733.0,22932.0,Transferencia,Cancelada,Cancelado,Veracruz
+TXN-000313,2025-04-24 16:21:37.297297,CUST-6801,Audifonos,Accesorios,3,4838.13,14514.39,Transferencia,Completada,Enviado,Veracruz
+TXN-000314,2025-04-25 01:06:18.378378,CUST-3806,Teclado,Accesorios,5,1846.07,9230.35,Efectivo,Completada,Cancelado,Guadalajara
+TXN-000315,2025-04-25 09:50:59.459459,CUST-1537,Smartphone,Telefonia,2,19442.86,38885.72,Tarjeta,Completada,Pendiente,Guadalajara
+TXN-000316,2025-04-25 18:35:40.540540,CUST-6986,Audifonos,Accesorios,3,2900.24,8700.72,Tarjeta,Completada,Entregado,Puebla
+TXN-000317,2025-04-26 03:20:21.621621,CUST-2841,Mouse,Accesorios,4,1330.96,5323.84,Efectivo,Pendiente,Entregado,Veracruz
+TXN-000318,2025-04-26 12:05:02.702702,CUST-9716,Monitor,Computacion,5,3479.89,17399.45,PayPal,Completada,Pendiente,Oaxaca
+TXN-000319,2025-04-26 20:49:43.783783,CUST-7971,Audifonos,Accesorios,2,4057.29,8114.58,Efectivo,Completada,Pendiente,Queretaro
+TXN-000320,2025-04-27 05:34:24.864864,CUST-6625,Tablet,Computacion,3,4497.85,13493.55,Transferencia,Completada,Pendiente,Oaxaca
+TXN-000321,2025-04-27 14:19:05.945945,CUST-3950,Smartphone,Telefonia,2,20884.21,41768.42,Tarjeta,Completada,Cancelado,Ciudad de Mexico
+TXN-000322,2025-04-27 23:03:47.027027,CUST-8992,Tablet,Computacion,4,6309.21,25236.84,Efectivo,Pendiente,Entregado,Monterrey
+TXN-000323,2025-04-28 07:48:28.108108,CUST-5780,Smartphone,Telefonia,2,22541.81,45083.62,PayPal,Pendiente,Pendiente,Guadalajara
+TXN-000324,2025-04-28 16:33:09.189189,CUST-3368,Audifonos,Accesorios,1,4748.19,4748.19,Efectivo,Completada,Cancelado,Puebla
+TXN-000325,2025-04-29 01:17:50.270270,CUST-7655,Laptop,Computacion,3,12975.92,38927.76,Tarjeta,Completada,Pendiente,Oaxaca
+TXN-000326,2025-04-29 10:02:31.351351,CUST-9173,Mouse,Accesorios,2,801.48,1602.96,Efectivo,Pendiente,Enviado,Tlaxcala
+TXN-000327,2025-04-29 18:47:12.432432,CUST-5495,Audifonos,Accesorios,4,4914.44,19657.76,Efectivo,Cancelada,Enviado,Queretaro
+TXN-000328,2025-04-30 03:31:53.513513,CUST-7002,Impresora,Computacion,4,4642.15,18568.6,Tarjeta,Completada,Entregado,Puebla
+TXN-000329,2025-04-30 12:16:34.594594,CUST-7614,Tablet,Computacion,2,13362.57,26725.14,Transferencia,Completada,Cancelado,Puebla
+TXN-000330,2025-04-30 21:01:15.675675,CUST-6919,Monitor,Computacion,4,6915.49,27661.96,Transferencia,Completada,Enviado,Oaxaca
+TXN-000331,2025-05-01 05:45:56.756756,CUST-1853,Monitor,Computacion,5,5314.97,26574.85,Tarjeta,Pendiente,Enviado,Tlaxcala
+TXN-000332,2025-05-01 14:30:37.837837,CUST-5146,Teclado,Accesorios,5,785.83,3929.15,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000333,2025-05-01 23:15:18.918918,CUST-4769,Smartphone,Telefonia,5,9064.46,45322.3,Tarjeta,Completada,Pendiente,Oaxaca
+TXN-000334,2025-05-02 08:00:00.000000,CUST-1574,Tablet,Computacion,1,12141.58,12141.58,Transferencia,Completada,Cancelado,Tlaxcala
+TXN-000335,2025-05-02 16:44:41.081081,CUST-2148,Teclado,Accesorios,2,957.12,1914.24,PayPal,Completada,Pendiente,Puebla
+TXN-000336,2025-05-03 01:29:22.162162,CUST-7293,Tablet,Computacion,1,9135.31,9135.31,Efectivo,Completada,Enviado,Queretaro
+TXN-000337,2025-05-03 10:14:03.243243,CUST-7457,Impresora,Computacion,4,4700.12,18800.48,Transferencia,Completada,Enviado,Tlaxcala
+TXN-000338,2025-05-03 18:58:44.324324,CUST-8509,Smartphone,Telefonia,1,16545.58,16545.58,Efectivo,Completada,Enviado,Puebla
+TXN-000339,2025-05-04 03:43:25.405405,CUST-5777,Audifonos,Accesorios,4,4395.1,17580.4,Tarjeta,Completada,Entregado,Monterrey
+TXN-000340,2025-05-04 12:28:06.486486,CUST-4854,Audifonos,Accesorios,4,4913.33,19653.32,PayPal,Completada,Entregado,Oaxaca
+TXN-000341,2025-05-04 21:12:47.567567,CUST-3491,Monitor,Computacion,3,5556.88,16670.64,Tarjeta,Completada,Entregado,Guadalajara
+TXN-000342,2025-05-05 05:57:28.648648,CUST-4124,Audifonos,Accesorios,5,4223.84,21119.2,PayPal,Completada,Cancelado,Oaxaca
+TXN-000343,2025-05-05 14:42:09.729729,CUST-6691,Audifonos,Accesorios,4,3940.38,15761.52,Efectivo,Pendiente,Enviado,Monterrey
+TXN-000344,2025-05-05 23:26:50.810810,CUST-4051,Impresora,Computacion,3,5227.94,15683.82,Efectivo,Completada,Enviado,Veracruz
+TXN-000345,2025-05-06 08:11:31.891891,CUST-1004,Laptop,Computacion,5,29120.94,145604.7,Tarjeta,Completada,Cancelado,Veracruz
+TXN-000346,2025-05-06 16:56:12.972972,CUST-6222,Monitor,Computacion,4,4003.56,16014.24,PayPal,Completada,Entregado,Veracruz
+TXN-000347,2025-05-07 01:40:54.054054,CUST-6315,Teclado,Accesorios,4,485.75,1943.0,PayPal,Completada,Cancelado,Oaxaca
+TXN-000348,2025-05-07 10:25:35.135135,CUST-5869,Mouse,Accesorios,1,1310.15,1310.15,Efectivo,Completada,Entregado,Ciudad de Mexico
+TXN-000349,2025-05-07 19:10:16.216216,CUST-1876,Laptop,Computacion,1,18783.0,18783.0,Tarjeta,Completada,Enviado,Oaxaca
+TXN-000350,2025-05-08 03:54:57.297297,CUST-8027,Teclado,Accesorios,5,1739.85,8699.25,PayPal,Completada,Pendiente,Queretaro
+TXN-000351,2025-05-08 12:39:38.378378,CUST-5142,Smartphone,Telefonia,4,22861.8,91447.2,Efectivo,Completada,Entregado,Monterrey
+TXN-000352,2025-05-08 21:24:19.459459,CUST-7966,Laptop,Computacion,2,11249.15,22498.3,Transferencia,Completada,Enviado,Queretaro
+TXN-000353,2025-05-09 06:09:00.540540,CUST-8079,Impresora,Computacion,1,7242.52,7242.52,Tarjeta,Completada,Enviado,Monterrey
+TXN-000354,2025-05-09 14:53:41.621621,CUST-8987,Teclado,Accesorios,5,1062.14,5310.7,Transferencia,Completada,Pendiente,Guadalajara
+TXN-000355,2025-05-09 23:38:22.702702,CUST-7799,Smartphone,Telefonia,4,15208.65,60834.6,Tarjeta,Completada,Enviado,Tlaxcala
+TXN-000356,2025-05-10 08:23:03.783783,CUST-5465,Monitor,Computacion,4,7199.44,28797.76,Efectivo,Completada,Enviado,Oaxaca
+TXN-000357,2025-05-10 17:07:44.864864,CUST-1635,Mouse,Accesorios,2,1404.3,2808.6,PayPal,Completada,Entregado,Oaxaca
+TXN-000358,2025-05-11 01:52:25.945945,CUST-2693,Smartphone,Telefonia,5,5382.32,26911.6,PayPal,Pendiente,Entregado,Puebla
+TXN-000359,2025-05-11 10:37:07.027027,CUST-5752,Audifonos,Accesorios,4,2645.8,10583.2,PayPal,Pendiente,Pendiente,Monterrey
+TXN-000360,2025-05-11 19:21:48.108108,CUST-9311,Tablet,Computacion,1,11252.66,11252.66,Tarjeta,Completada,Pendiente,Puebla
+TXN-000361,2025-05-12 04:06:29.189189,CUST-1830,Smartphone,Telefonia,2,19454.14,38908.28,Efectivo,Completada,Enviado,Puebla
+TXN-000362,2025-05-12 12:51:10.270270,CUST-6177,Smartphone,Telefonia,5,18850.65,94253.25,Transferencia,Completada,Entregado,Oaxaca
+TXN-000363,2025-05-12 21:35:51.351351,CUST-9932,Mouse,Accesorios,2,374.77,749.54,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000364,2025-05-13 06:20:32.432432,CUST-9308,Tablet,Computacion,1,6592.75,6592.75,Transferencia,Completada,Pendiente,Tlaxcala
+TXN-000365,2025-05-13 15:05:13.513513,CUST-6949,Audifonos,Accesorios,5,2114.22,10571.1,Tarjeta,Pendiente,Cancelado,Tlaxcala
+TXN-000366,2025-05-13 23:49:54.594594,CUST-3838,Teclado,Accesorios,2,1667.54,3335.08,Tarjeta,Completada,Pendiente,Queretaro
+TXN-000367,2025-05-14 08:34:35.675675,CUST-2150,Teclado,Accesorios,3,773.89,2321.67,Transferencia,Pendiente,Enviado,Monterrey
+TXN-000368,2025-05-14 17:19:16.756756,CUST-8560,Smartphone,Telefonia,1,9214.1,9214.1,Transferencia,Completada,Entregado,Guadalajara
+TXN-000369,2025-05-15 02:03:57.837837,CUST-2931,Impresora,Computacion,1,7723.41,7723.41,Transferencia,Completada,Pendiente,Monterrey
+TXN-000370,2025-05-15 10:48:38.918918,CUST-2664,Impresora,Computacion,1,1557.61,1557.61,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000371,2025-05-15 19:33:20.000000,CUST-2081,Tablet,Computacion,3,14973.85,44921.55,Transferencia,Completada,Entregado,Ciudad de Mexico
+TXN-000372,2025-05-16 04:18:01.081081,CUST-1512,Tablet,Computacion,3,11121.86,33365.58,Tarjeta,Completada,Pendiente,Tlaxcala
+TXN-000373,2025-05-16 13:02:42.162162,CUST-8805,Audifonos,Accesorios,4,4228.11,16912.44,Tarjeta,Completada,Cancelado,Veracruz
+TXN-000374,2025-05-16 21:47:23.243243,CUST-6237,Mouse,Accesorios,2,583.01,1166.02,PayPal,Completada,Pendiente,Puebla
+TXN-000375,2025-05-17 06:32:04.324324,CUST-1559,Monitor,Computacion,4,2607.36,10429.44,Transferencia,Cancelada,Entregado,Puebla
+TXN-000376,2025-05-17 15:16:45.405405,CUST-4672,Teclado,Accesorios,2,1554.38,3108.76,Efectivo,Completada,Entregado,Tlaxcala
+TXN-000377,2025-05-18 00:01:26.486486,CUST-8404,Mouse,Accesorios,3,1284.39,3853.17,Efectivo,Cancelada,Entregado,Monterrey
+TXN-000378,2025-05-18 08:46:07.567567,CUST-4343,Laptop,Computacion,3,24809.52,74428.56,Efectivo,Cancelada,Enviado,Ciudad de Mexico
+TXN-000379,2025-05-18 17:30:48.648648,CUST-5070,Teclado,Accesorios,4,542.85,2171.4,PayPal,Completada,Pendiente,Monterrey
+TXN-000380,2025-05-19 02:15:29.729729,CUST-1580,Mouse,Accesorios,5,1179.46,5897.3,Tarjeta,Completada,Enviado,Guadalajara
+TXN-000381,2025-05-19 11:00:10.810810,CUST-8004,Teclado,Accesorios,4,1607.17,6428.68,Efectivo,Completada,Entregado,Veracruz
+TXN-000382,2025-05-19 19:44:51.891891,CUST-9130,Monitor,Computacion,2,7439.05,14878.1,Tarjeta,Pendiente,Cancelado,Tlaxcala
+TXN-000383,2025-05-20 04:29:32.972972,CUST-4147,Laptop,Computacion,4,25322.32,101289.28,PayPal,Completada,Pendiente,Puebla
+TXN-000384,2025-05-20 13:14:14.054054,CUST-5249,Impresora,Computacion,1,6998.49,6998.49,Transferencia,Completada,Enviado,Oaxaca
+TXN-000385,2025-05-20 21:58:55.135135,CUST-2679,Impresora,Computacion,2,5488.43,10976.86,Transferencia,Completada,Pendiente,Monterrey
+TXN-000386,2025-05-21 06:43:36.216216,CUST-4506,Monitor,Computacion,2,3164.54,6329.08,Transferencia,Completada,Cancelado,Ciudad de Mexico
+TXN-000387,2025-05-21 15:28:17.297297,CUST-8253,Audifonos,Accesorios,5,2694.33,13471.65,Efectivo,Completada,Enviado,Oaxaca
+TXN-000388,2025-05-22 00:12:58.378378,CUST-3744,Laptop,Computacion,3,11552.99,34658.97,Transferencia,Completada,Entregado,Guadalajara
+TXN-000389,2025-05-22 08:57:39.459459,CUST-6188,Smartphone,Telefonia,2,13150.86,26301.72,Efectivo,Completada,Enviado,Tlaxcala
+TXN-000390,2025-05-22 17:42:20.540540,CUST-3141,Mouse,Accesorios,3,729.24,2187.72,PayPal,Pendiente,Pendiente,Monterrey
+TXN-000391,2025-05-23 02:27:01.621621,CUST-7617,Laptop,Computacion,4,11320.2,45280.8,PayPal,Completada,Pendiente,Puebla
+TXN-000392,2025-05-23 11:11:42.702702,CUST-3479,Audifonos,Accesorios,1,2069.69,2069.69,Efectivo,Cancelada,Pendiente,Monterrey
+TXN-000393,2025-05-23 19:56:23.783783,CUST-7484,Audifonos,Accesorios,5,999.49,4997.45,Tarjeta,Completada,Pendiente,Veracruz
+TXN-000394,2025-05-24 04:41:04.864864,CUST-8421,Monitor,Computacion,3,8561.76,25685.28,Transferencia,Pendiente,Entregado,Queretaro
+TXN-000395,2025-05-24 13:25:45.945945,CUST-5452,Teclado,Accesorios,2,1911.07,3822.14,Transferencia,Completada,Enviado,Oaxaca
+TXN-000396,2025-05-24 22:10:27.027027,CUST-6881,Laptop,Computacion,3,11446.33,34338.99,Transferencia,Completada,Entregado,Veracruz
+TXN-000397,2025-05-25 06:55:08.108108,CUST-7665,Mouse,Accesorios,2,1441.65,2883.3,Efectivo,Completada,Entregado,Guadalajara
+TXN-000398,2025-05-25 15:39:49.189189,CUST-3849,Laptop,Computacion,3,20451.53,61354.59,PayPal,Pendiente,Entregado,Puebla
+TXN-000399,2025-05-26 00:24:30.270270,CUST-8390,Tablet,Computacion,2,6594.79,13189.58,Transferencia,Completada,Pendiente,Oaxaca
+TXN-000400,2025-05-26 09:09:11.351351,CUST-7905,Teclado,Accesorios,4,430.67,1722.68,PayPal,Pendiente,Pendiente,Guadalajara
+TXN-000401,2025-05-26 17:53:52.432432,CUST-3489,Mouse,Accesorios,2,850.81,1701.62,Transferencia,Cancelada,Pendiente,Veracruz
+TXN-000402,2025-05-27 02:38:33.513513,CUST-5611,Impresora,Computacion,2,6664.35,13328.7,Transferencia,Completada,Enviado,Veracruz
+TXN-000403,2025-05-27 11:23:14.594594,CUST-3839,Mouse,Accesorios,1,1119.21,1119.21,Efectivo,Completada,Cancelado,Queretaro
+TXN-000404,2025-05-27 20:07:55.675675,CUST-9527,Smartphone,Telefonia,2,6004.52,12009.04,Tarjeta,Completada,Pendiente,Oaxaca
+TXN-000405,2025-05-28 04:52:36.756756,CUST-6878,Monitor,Computacion,1,3046.76,3046.76,Efectivo,Completada,Enviado,Puebla
+TXN-000406,2025-05-28 13:37:17.837837,CUST-7303,Smartphone,Telefonia,5,13057.47,65287.35,Transferencia,Pendiente,Pendiente,Veracruz
+TXN-000407,2025-05-28 22:21:58.918918,CUST-1851,Mouse,Accesorios,1,583.88,583.88,Transferencia,Completada,Pendiente,Tlaxcala
+TXN-000408,2025-05-29 07:06:40.000000,CUST-2687,Teclado,Accesorios,4,695.05,2780.2,Tarjeta,Completada,Entregado,Queretaro
+TXN-000409,2025-05-29 15:51:21.081081,CUST-7833,Laptop,Computacion,1,15620.09,15620.09,PayPal,Cancelada,Entregado,Guadalajara
+TXN-000410,2025-05-30 00:36:02.162162,CUST-3427,Impresora,Computacion,5,6722.64,33613.2,PayPal,Completada,Entregado,Oaxaca
+TXN-000411,2025-05-30 09:20:43.243243,CUST-5000,Laptop,Computacion,4,28584.56,114338.24,Transferencia,Pendiente,Enviado,Ciudad de Mexico
+TXN-000412,2025-05-30 18:05:24.324324,CUST-6052,Teclado,Accesorios,3,988.67,2966.01,PayPal,Completada,Cancelado,Ciudad de Mexico
+TXN-000413,2025-05-31 02:50:05.405405,CUST-3738,Mouse,Accesorios,3,1377.94,4133.82,Transferencia,Completada,Cancelado,Puebla
+TXN-000414,2025-05-31 11:34:46.486486,CUST-6732,Audifonos,Accesorios,1,1946.73,1946.73,Tarjeta,Completada,Enviado,Tlaxcala
+TXN-000415,2025-05-31 20:19:27.567567,CUST-6387,Laptop,Computacion,1,19528.74,19528.74,Tarjeta,Completada,Pendiente,Veracruz
+TXN-000416,2025-06-01 05:04:08.648648,CUST-9002,Audifonos,Accesorios,5,1517.13,7585.65,Transferencia,Completada,Enviado,Ciudad de Mexico
+TXN-000417,2025-06-01 13:48:49.729729,CUST-6536,Laptop,Computacion,5,22809.52,114047.6,Tarjeta,Completada,Pendiente,Puebla
+TXN-000418,2025-06-01 22:33:30.810810,CUST-4913,Laptop,Computacion,2,29579.62,59159.24,Efectivo,Completada,Enviado,Guadalajara
+TXN-000419,2025-06-02 07:18:11.891891,CUST-2066,Impresora,Computacion,5,5422.71,27113.55,Efectivo,Completada,Enviado,Queretaro
+TXN-000420,2025-06-02 16:02:52.972972,CUST-8723,Monitor,Computacion,2,5183.61,10367.22,Tarjeta,Completada,Enviado,Tlaxcala
+TXN-000421,2025-06-03 00:47:34.054054,CUST-5380,Monitor,Computacion,4,7358.63,29434.52,Transferencia,Completada,Cancelado,Tlaxcala
+TXN-000422,2025-06-03 09:32:15.135135,CUST-5107,Tablet,Computacion,1,4475.05,4475.05,Transferencia,Completada,Entregado,Monterrey
+TXN-000423,2025-06-03 18:16:56.216216,CUST-6726,Smartphone,Telefonia,4,22773.18,91092.72,Tarjeta,Completada,Enviado,Puebla
+TXN-000424,2025-06-04 03:01:37.297297,CUST-4373,Teclado,Accesorios,5,1155.24,5776.2,PayPal,Completada,Cancelado,Puebla
+TXN-000425,2025-06-04 11:46:18.378378,CUST-9945,Teclado,Accesorios,4,1063.89,4255.56,Efectivo,Completada,Entregado,Monterrey
+TXN-000426,2025-06-04 20:30:59.459459,CUST-3082,Teclado,Accesorios,4,1295.97,5183.88,PayPal,Completada,Entregado,Queretaro
+TXN-000427,2025-06-05 05:15:40.540540,CUST-9967,Tablet,Computacion,4,10497.41,41989.64,Transferencia,Completada,Enviado,Veracruz
+TXN-000428,2025-06-05 14:00:21.621621,CUST-7748,Monitor,Computacion,5,3038.32,15191.6,Transferencia,Completada,Pendiente,Puebla
+TXN-000429,2025-06-05 22:45:02.702702,CUST-1417,Mouse,Accesorios,4,1087.4,4349.6,PayPal,Completada,Pendiente,Monterrey
+TXN-000430,2025-06-06 07:29:43.783783,CUST-9306,Audifonos,Accesorios,2,1588.69,3177.38,Tarjeta,Pendiente,Pendiente,Veracruz
+TXN-000431,2025-06-06 16:14:24.864864,CUST-9808,Impresora,Computacion,5,6140.69,30703.45,PayPal,Completada,Enviado,Queretaro
+TXN-000432,2025-06-07 00:59:05.945945,CUST-4974,Audifonos,Accesorios,4,4201.41,16805.64,PayPal,Completada,Pendiente,Veracruz
+TXN-000433,2025-06-07 09:43:47.027027,CUST-4267,Mouse,Accesorios,5,1245.15,6225.75,Efectivo,Completada,Cancelado,Oaxaca
+TXN-000434,2025-06-07 18:28:28.108108,CUST-1825,Impresora,Computacion,3,5091.26,15273.78,Efectivo,Completada,Cancelado,Tlaxcala
+TXN-000435,2025-06-08 03:13:09.189189,CUST-8668,Tablet,Computacion,2,9242.04,18484.08,PayPal,Cancelada,Cancelado,Guadalajara
+TXN-000436,2025-06-08 11:57:50.270270,CUST-6745,Mouse,Accesorios,4,385.74,1542.96,PayPal,Completada,Cancelado,Tlaxcala
+TXN-000437,2025-06-08 20:42:31.351351,CUST-1412,Teclado,Accesorios,3,1618.09,4854.27,Transferencia,Completada,Entregado,Tlaxcala
+TXN-000438,2025-06-09 05:27:12.432432,CUST-8543,Smartphone,Telefonia,3,10428.19,31284.57,Efectivo,Completada,Cancelado,Oaxaca
+TXN-000439,2025-06-09 14:11:53.513513,CUST-8587,Laptop,Computacion,5,19933.91,99669.55,Efectivo,Completada,Pendiente,Veracruz
+TXN-000440,2025-06-09 22:56:34.594594,CUST-1728,Audifonos,Accesorios,3,1779.23,5337.69,Transferencia,Completada,Enviado,Veracruz
+TXN-000441,2025-06-10 07:41:15.675675,CUST-8164,Monitor,Computacion,2,3503.71,7007.42,Tarjeta,Completada,Pendiente,Puebla
+TXN-000442,2025-06-10 16:25:56.756756,CUST-9867,Monitor,Computacion,2,7221.68,14443.36,Efectivo,Completada,Cancelado,Oaxaca
+TXN-000443,2025-06-11 01:10:37.837837,CUST-6988,Tablet,Computacion,1,3651.98,3651.98,Efectivo,Completada,Entregado,Puebla
+TXN-000444,2025-06-11 09:55:18.918918,CUST-3504,Impresora,Computacion,2,6366.19,12732.38,Tarjeta,Completada,Cancelado,Oaxaca
+TXN-000445,2025-06-11 18:40:00.000000,CUST-3967,Monitor,Computacion,3,4881.9,14645.7,Efectivo,Completada,Enviado,Puebla
+TXN-000446,2025-06-12 03:24:41.081081,CUST-3786,Teclado,Accesorios,2,300.23,600.46,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000447,2025-06-12 12:09:22.162162,CUST-2122,Audifonos,Accesorios,5,2800.08,14000.4,Tarjeta,Completada,Enviado,Monterrey
+TXN-000448,2025-06-12 20:54:03.243243,CUST-5079,Mouse,Accesorios,1,260.91,260.91,Tarjeta,Cancelada,Enviado,Tlaxcala
+TXN-000449,2025-06-13 05:38:44.324324,CUST-2571,Teclado,Accesorios,3,769.49,2308.47,PayPal,Completada,Enviado,Tlaxcala
+TXN-000450,2025-06-13 14:23:25.405405,CUST-6073,Tablet,Computacion,1,11483.72,11483.72,Transferencia,Pendiente,Pendiente,Queretaro
+TXN-000451,2025-06-13 23:08:06.486486,CUST-6104,Teclado,Accesorios,3,406.57,1219.71,Transferencia,Completada,Cancelado,Guadalajara
+TXN-000452,2025-06-14 07:52:47.567567,CUST-3143,Mouse,Accesorios,5,1291.14,6455.7,Tarjeta,Completada,Enviado,Monterrey
+TXN-000453,2025-06-14 16:37:28.648648,CUST-7806,Smartphone,Telefonia,1,5076.4,5076.4,Tarjeta,Completada,Pendiente,Veracruz
+TXN-000454,2025-06-15 01:22:09.729729,CUST-8357,Tablet,Computacion,4,5961.89,23847.56,Efectivo,Completada,Entregado,Guadalajara
+TXN-000455,2025-06-15 10:06:50.810810,CUST-4440,Smartphone,Telefonia,3,19818.08,59454.24,PayPal,Completada,Pendiente,Ciudad de Mexico
+TXN-000456,2025-06-15 18:51:31.891891,CUST-4766,Laptop,Computacion,4,16325.4,65301.6,PayPal,Completada,Entregado,Queretaro
+TXN-000457,2025-06-16 03:36:12.972972,CUST-6644,Smartphone,Telefonia,1,7037.85,7037.85,Tarjeta,Completada,Pendiente,Guadalajara
+TXN-000458,2025-06-16 12:20:54.054054,CUST-3914,Laptop,Computacion,4,17204.68,68818.72,Efectivo,Pendiente,Cancelado,Queretaro
+TXN-000459,2025-06-16 21:05:35.135135,CUST-5968,Laptop,Computacion,4,15407.87,61631.48,Efectivo,Completada,Enviado,Tlaxcala
+TXN-000460,2025-06-17 05:50:16.216216,CUST-6917,Smartphone,Telefonia,1,21854.24,21854.24,Transferencia,Completada,Cancelado,Veracruz
+TXN-000461,2025-06-17 14:34:57.297297,CUST-9787,Tablet,Computacion,5,6760.18,33800.9,Transferencia,Completada,Pendiente,Ciudad de Mexico
+TXN-000462,2025-06-17 23:19:38.378378,CUST-1728,Impresora,Computacion,4,6628.06,26512.24,Efectivo,Completada,Enviado,Tlaxcala
+TXN-000463,2025-06-18 08:04:19.459459,CUST-2365,Mouse,Accesorios,4,1359.43,5437.72,Transferencia,Completada,Entregado,Monterrey
+TXN-000464,2025-06-18 16:49:00.540540,CUST-5492,Teclado,Accesorios,5,1037.49,5187.45,Tarjeta,Completada,Pendiente,Puebla
+TXN-000465,2025-06-19 01:33:41.621621,CUST-1698,Teclado,Accesorios,4,1846.9,7387.6,Efectivo,Pendiente,Enviado,Oaxaca
+TXN-000466,2025-06-19 10:18:22.702702,CUST-8186,Mouse,Accesorios,4,690.51,2762.04,Transferencia,Completada,Entregado,Ciudad de Mexico
+TXN-000467,2025-06-19 19:03:03.783783,CUST-1395,Audifonos,Accesorios,4,4838.35,19353.4,PayPal,Completada,Entregado,Veracruz
+TXN-000468,2025-06-20 03:47:44.864864,CUST-8400,Audifonos,Accesorios,2,901.8,1803.6,Efectivo,Completada,Cancelado,Queretaro
+TXN-000469,2025-06-20 12:32:25.945945,CUST-9082,Laptop,Computacion,5,23740.39,118701.95,Efectivo,Cancelada,Pendiente,Guadalajara
+TXN-000470,2025-06-20 21:17:07.027027,CUST-5171,Laptop,Computacion,4,19876.28,79505.12,PayPal,Completada,Entregado,Monterrey
+TXN-000471,2025-06-21 06:01:48.108108,CUST-5360,Tablet,Computacion,5,7651.79,38258.95,Tarjeta,Completada,Enviado,Guadalajara
+TXN-000472,2025-06-21 14:46:29.189189,CUST-3502,Monitor,Computacion,3,7245.34,21736.02,PayPal,Completada,Entregado,Ciudad de Mexico
+TXN-000473,2025-06-21 23:31:10.270270,CUST-1717,Smartphone,Telefonia,3,19077.14,57231.42,Efectivo,Completada,Entregado,Monterrey
+TXN-000474,2025-06-22 08:15:51.351351,CUST-3782,Laptop,Computacion,4,10087.27,40349.08,Tarjeta,Completada,Cancelado,Veracruz
+TXN-000475,2025-06-22 17:00:32.432432,CUST-5946,Teclado,Accesorios,5,583.82,2919.1,Transferencia,Completada,Cancelado,Ciudad de Mexico
+TXN-000476,2025-06-23 01:45:13.513513,CUST-6486,Tablet,Computacion,5,11556.55,57782.75,Transferencia,Completada,Enviado,Veracruz
+TXN-000477,2025-06-23 10:29:54.594594,CUST-9335,Smartphone,Telefonia,5,18327.71,91638.55,Transferencia,Completada,Cancelado,Guadalajara
+TXN-000478,2025-06-23 19:14:35.675675,CUST-5980,Tablet,Computacion,2,14592.57,29185.14,Efectivo,Completada,Entregado,Tlaxcala
+TXN-000479,2025-06-24 03:59:16.756756,CUST-8266,Smartphone,Telefonia,3,20220.76,60662.28,PayPal,Completada,Entregado,Monterrey
+TXN-000480,2025-06-24 12:43:57.837837,CUST-5491,Smartphone,Telefonia,5,24015.45,120077.25,Tarjeta,Completada,Cancelado,Puebla
+TXN-000481,2025-06-24 21:28:38.918918,CUST-8192,Mouse,Accesorios,5,1113.3,5566.5,Transferencia,Completada,Entregado,Tlaxcala
+TXN-000482,2025-06-25 06:13:20.000000,CUST-6588,Laptop,Computacion,2,15961.04,31922.08,Tarjeta,Completada,Entregado,Puebla
+TXN-000483,2025-06-25 14:58:01.081081,CUST-8651,Impresora,Computacion,2,2184.87,4369.74,Efectivo,Completada,Enviado,Guadalajara
+TXN-000484,2025-06-25 23:42:42.162162,CUST-4636,Tablet,Computacion,5,12381.89,61909.45,Transferencia,Completada,Cancelado,Queretaro
+TXN-000485,2025-06-26 08:27:23.243243,CUST-2167,Impresora,Computacion,1,5686.97,5686.97,Efectivo,Pendiente,Entregado,Monterrey
+TXN-000486,2025-06-26 17:12:04.324324,CUST-2062,Tablet,Computacion,5,3578.23,17891.15,PayPal,Pendiente,Cancelado,Tlaxcala
+TXN-000487,2025-06-27 01:56:45.405405,CUST-3156,Mouse,Accesorios,5,668.07,3340.35,Efectivo,Completada,Enviado,Tlaxcala
+TXN-000488,2025-06-27 10:41:26.486486,CUST-8860,Teclado,Accesorios,2,1926.56,3853.12,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000489,2025-06-27 19:26:07.567567,CUST-6161,Impresora,Computacion,2,4752.61,9505.22,PayPal,Completada,Entregado,Oaxaca
+TXN-000490,2025-06-28 04:10:48.648648,CUST-6305,Teclado,Accesorios,5,1035.64,5178.2,Tarjeta,Completada,Cancelado,Guadalajara
+TXN-000491,2025-06-28 12:55:29.729729,CUST-7541,Audifonos,Accesorios,5,2559.65,12798.25,PayPal,Completada,Entregado,Veracruz
+TXN-000492,2025-06-28 21:40:10.810810,CUST-5729,Laptop,Computacion,5,14177.65,70888.25,PayPal,Completada,Entregado,Guadalajara
+TXN-000493,2025-06-29 06:24:51.891891,CUST-8330,Laptop,Computacion,2,17374.14,34748.28,Efectivo,Completada,Entregado,Veracruz
+TXN-000494,2025-06-29 15:09:32.972972,CUST-6334,Monitor,Computacion,5,5273.6,26368.0,Tarjeta,Completada,Enviado,Monterrey
+TXN-000495,2025-06-29 23:54:14.054054,CUST-9924,Mouse,Accesorios,5,268.06,1340.3,Transferencia,Completada,Cancelado,Veracruz
+TXN-000496,2025-06-30 08:38:55.135135,CUST-5330,Teclado,Accesorios,4,1604.86,6419.44,PayPal,Completada,Enviado,Queretaro
+TXN-000497,2025-06-30 17:23:36.216216,CUST-9010,Smartphone,Telefonia,1,13330.09,13330.09,Tarjeta,Completada,Cancelado,Puebla
+TXN-000498,2025-07-01 02:08:17.297297,CUST-7801,Tablet,Computacion,3,12866.16,38598.48,PayPal,Completada,Enviado,Veracruz
+TXN-000499,2025-07-01 10:52:58.378378,CUST-5846,Laptop,Computacion,1,27006.96,27006.96,PayPal,Pendiente,Pendiente,Veracruz
+TXN-000500,2025-07-01 19:37:39.459459,CUST-7731,Impresora,Computacion,4,2877.96,11511.84,PayPal,Cancelada,Entregado,Ciudad de Mexico
+TXN-000501,2025-07-02 04:22:20.540540,CUST-8241,Tablet,Computacion,3,10888.24,32664.72,PayPal,Completada,Entregado,Tlaxcala
+TXN-000502,2025-07-02 13:07:01.621621,CUST-1953,Tablet,Computacion,5,8667.38,43336.9,Efectivo,Completada,Enviado,Guadalajara
+TXN-000503,2025-07-02 21:51:42.702702,CUST-3539,Monitor,Computacion,4,9101.18,36404.72,Tarjeta,Completada,Pendiente,Guadalajara
+TXN-000504,2025-07-03 06:36:23.783783,CUST-8056,Teclado,Accesorios,5,666.76,3333.8,Tarjeta,Completada,Entregado,Monterrey
+TXN-000505,2025-07-03 15:21:04.864864,CUST-2542,Laptop,Computacion,2,23556.26,47112.52,Tarjeta,Completada,Cancelado,Monterrey
+TXN-000506,2025-07-04 00:05:45.945945,CUST-6293,Tablet,Computacion,4,10293.03,41172.12,PayPal,Completada,Enviado,Queretaro
+TXN-000507,2025-07-04 08:50:27.027027,CUST-2191,Laptop,Computacion,2,15906.03,31812.06,Efectivo,Completada,Entregado,Veracruz
+TXN-000508,2025-07-04 17:35:08.108108,CUST-7313,Smartphone,Telefonia,4,7732.02,30928.08,PayPal,Completada,Entregado,Oaxaca
+TXN-000509,2025-07-05 02:19:49.189189,CUST-7938,Monitor,Computacion,4,7387.3,29549.2,PayPal,Completada,Enviado,Guadalajara
+TXN-000510,2025-07-05 11:04:30.270270,CUST-3681,Smartphone,Telefonia,2,19771.95,39543.9,Tarjeta,Completada,Enviado,Monterrey
+TXN-000511,2025-07-05 19:49:11.351351,CUST-2540,Laptop,Computacion,3,16312.55,48937.65,PayPal,Completada,Cancelado,Veracruz
+TXN-000512,2025-07-06 04:33:52.432432,CUST-7172,Audifonos,Accesorios,1,3401.75,3401.75,Transferencia,Completada,Cancelado,Monterrey
+TXN-000513,2025-07-06 13:18:33.513513,CUST-6541,Impresora,Computacion,5,4068.35,20341.75,PayPal,Cancelada,Entregado,Queretaro
+TXN-000514,2025-07-06 22:03:14.594594,CUST-2365,Laptop,Computacion,4,24264.14,97056.56,Transferencia,Completada,Entregado,Puebla
+TXN-000515,2025-07-07 06:47:55.675675,CUST-9691,Teclado,Accesorios,5,638.67,3193.35,PayPal,Completada,Enviado,Puebla
+TXN-000516,2025-07-07 15:32:36.756756,CUST-9702,Tablet,Computacion,2,13682.58,27365.16,Efectivo,Pendiente,Entregado,Monterrey
+TXN-000517,2025-07-08 00:17:17.837837,CUST-8494,Tablet,Computacion,5,6448.92,32244.6,Efectivo,Cancelada,Entregado,Puebla
+TXN-000518,2025-07-08 09:01:58.918918,CUST-5312,Smartphone,Telefonia,2,12355.72,24711.44,Tarjeta,Completada,Enviado,Monterrey
+TXN-000519,2025-07-08 17:46:40.000000,CUST-2324,Impresora,Computacion,5,1877.6,9388.0,PayPal,Pendiente,Entregado,Veracruz
+TXN-000520,2025-07-09 02:31:21.081081,CUST-4141,Monitor,Computacion,1,3336.34,3336.34,Transferencia,Completada,Entregado,Ciudad de Mexico
+TXN-000521,2025-07-09 11:16:02.162162,CUST-8419,Audifonos,Accesorios,1,2821.38,2821.38,Transferencia,Completada,Pendiente,Oaxaca
+TXN-000522,2025-07-09 20:00:43.243243,CUST-4486,Mouse,Accesorios,1,547.87,547.87,PayPal,Completada,Cancelado,Veracruz
+TXN-000523,2025-07-10 04:45:24.324324,CUST-2810,Impresora,Computacion,1,6930.62,6930.62,Transferencia,Completada,Enviado,Ciudad de Mexico
+TXN-000524,2025-07-10 13:30:05.405405,CUST-7588,Tablet,Computacion,1,3176.32,3176.32,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000525,2025-07-10 22:14:46.486486,CUST-3923,Teclado,Accesorios,1,944.46,944.46,Transferencia,Completada,Cancelado,Guadalajara
+TXN-000526,2025-07-11 06:59:27.567567,CUST-6301,Impresora,Computacion,2,3692.75,7385.5,Tarjeta,Completada,Cancelado,Veracruz
+TXN-000527,2025-07-11 15:44:08.648648,CUST-5186,Smartphone,Telefonia,4,5386.55,21546.2,Efectivo,Completada,Cancelado,Veracruz
+TXN-000528,2025-07-12 00:28:49.729729,CUST-9905,Smartphone,Telefonia,5,7487.37,37436.85,Efectivo,Completada,Pendiente,Monterrey
+TXN-000529,2025-07-12 09:13:30.810810,CUST-6977,Mouse,Accesorios,1,737.74,737.74,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000530,2025-07-12 17:58:11.891891,CUST-5268,Teclado,Accesorios,2,1137.87,2275.74,PayPal,Completada,Cancelado,Ciudad de Mexico
+TXN-000531,2025-07-13 02:42:52.972972,CUST-5748,Monitor,Computacion,2,5532.17,11064.34,PayPal,Completada,Entregado,Ciudad de Mexico
+TXN-000532,2025-07-13 11:27:34.054054,CUST-5849,Impresora,Computacion,2,4951.09,9902.18,Efectivo,Completada,Entregado,Monterrey
+TXN-000533,2025-07-13 20:12:15.135135,CUST-4709,Teclado,Accesorios,4,1311.72,5246.88,PayPal,Pendiente,Pendiente,Guadalajara
+TXN-000534,2025-07-14 04:56:56.216216,CUST-7619,Monitor,Computacion,5,2574.43,12872.15,Transferencia,Completada,Pendiente,Veracruz
+TXN-000535,2025-07-14 13:41:37.297297,CUST-9647,Teclado,Accesorios,4,1088.96,4355.84,PayPal,Completada,Pendiente,Ciudad de Mexico
+TXN-000536,2025-07-14 22:26:18.378378,CUST-4072,Teclado,Accesorios,3,1937.95,5813.85,PayPal,Completada,Cancelado,Puebla
+TXN-000537,2025-07-15 07:10:59.459459,CUST-7530,Laptop,Computacion,2,20380.65,40761.3,Efectivo,Completada,Entregado,Veracruz
+TXN-000538,2025-07-15 15:55:40.540540,CUST-1504,Smartphone,Telefonia,3,18550.85,55652.55,Tarjeta,Completada,Pendiente,Monterrey
+TXN-000539,2025-07-16 00:40:21.621621,CUST-2214,Impresora,Computacion,1,3527.12,3527.12,Tarjeta,Completada,Pendiente,Guadalajara
+TXN-000540,2025-07-16 09:25:02.702702,CUST-2531,Teclado,Accesorios,1,1615.79,1615.79,Tarjeta,Completada,Enviado,Puebla
+TXN-000541,2025-07-16 18:09:43.783783,CUST-8576,Impresora,Computacion,4,6523.99,26095.96,Transferencia,Completada,Cancelado,Monterrey
+TXN-000542,2025-07-17 02:54:24.864864,CUST-1823,Mouse,Accesorios,5,877.68,4388.4,PayPal,Pendiente,Enviado,Tlaxcala
+TXN-000543,2025-07-17 11:39:05.945945,CUST-1928,Teclado,Accesorios,3,1959.22,5877.66,Tarjeta,Completada,Entregado,Veracruz
+TXN-000544,2025-07-17 20:23:47.027027,CUST-6029,Tablet,Computacion,5,4506.6,22533.0,Efectivo,Completada,Enviado,Tlaxcala
+TXN-000545,2025-07-18 05:08:28.108108,CUST-1133,Smartphone,Telefonia,4,5338.95,21355.8,Tarjeta,Cancelada,Enviado,Monterrey
+TXN-000546,2025-07-18 13:53:09.189189,CUST-3105,Tablet,Computacion,1,12241.9,12241.9,Tarjeta,Completada,Enviado,Monterrey
+TXN-000547,2025-07-18 22:37:50.270270,CUST-4627,Impresora,Computacion,5,6746.51,33732.55,PayPal,Completada,Cancelado,Monterrey
+TXN-000548,2025-07-19 07:22:31.351351,CUST-7316,Impresora,Computacion,5,2281.35,11406.75,PayPal,Completada,Entregado,Ciudad de Mexico
+TXN-000549,2025-07-19 16:07:12.432432,CUST-2852,Smartphone,Telefonia,1,10311.66,10311.66,PayPal,Completada,Enviado,Guadalajara
+TXN-000550,2025-07-20 00:51:53.513513,CUST-5910,Impresora,Computacion,3,1614.09,4842.27,Transferencia,Completada,Cancelado,Ciudad de Mexico
+TXN-000551,2025-07-20 09:36:34.594594,CUST-5175,Tablet,Computacion,1,6519.7,6519.7,Transferencia,Completada,Entregado,Guadalajara
+TXN-000552,2025-07-20 18:21:15.675675,CUST-6348,Teclado,Accesorios,5,1614.34,8071.7,Tarjeta,Completada,Pendiente,Oaxaca
+TXN-000553,2025-07-21 03:05:56.756756,CUST-7190,Teclado,Accesorios,3,1180.53,3541.59,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000554,2025-07-21 11:50:37.837837,CUST-2256,Laptop,Computacion,3,16961.91,50885.73,Tarjeta,Completada,Entregado,Tlaxcala
+TXN-000555,2025-07-21 20:35:18.918918,CUST-4376,Mouse,Accesorios,1,683.26,683.26,Efectivo,Completada,Enviado,Guadalajara
+TXN-000556,2025-07-22 05:20:00.000000,CUST-6645,Impresora,Computacion,5,1508.8,7544.0,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000557,2025-07-22 14:04:41.081081,CUST-4486,Tablet,Computacion,4,6597.61,26390.44,PayPal,Pendiente,Entregado,Veracruz
+TXN-000558,2025-07-22 22:49:22.162162,CUST-4584,Impresora,Computacion,5,5701.98,28509.9,PayPal,Completada,Cancelado,Monterrey
+TXN-000559,2025-07-23 07:34:03.243243,CUST-9053,Impresora,Computacion,2,7832.26,15664.52,Efectivo,Completada,Entregado,Guadalajara
+TXN-000560,2025-07-23 16:18:44.324324,CUST-4330,Monitor,Computacion,4,8852.96,35411.84,PayPal,Completada,Cancelado,Guadalajara
+TXN-000561,2025-07-24 01:03:25.405405,CUST-3703,Laptop,Computacion,3,10471.9,31415.7,Transferencia,Completada,Entregado,Ciudad de Mexico
+TXN-000562,2025-07-24 09:48:06.486486,CUST-9662,Tablet,Computacion,4,13782.73,55130.92,Transferencia,Completada,Cancelado,Oaxaca
+TXN-000563,2025-07-24 18:32:47.567567,CUST-9120,Tablet,Computacion,3,12398.38,37195.14,PayPal,Completada,Pendiente,Ciudad de Mexico
+TXN-000564,2025-07-25 03:17:28.648648,CUST-8114,Impresora,Computacion,3,6572.44,19717.32,Efectivo,Pendiente,Pendiente,Queretaro
+TXN-000565,2025-07-25 12:02:09.729729,CUST-2353,Laptop,Computacion,4,19159.92,76639.68,Tarjeta,Pendiente,Pendiente,Tlaxcala
+TXN-000566,2025-07-25 20:46:50.810810,CUST-6063,Teclado,Accesorios,3,976.61,2929.83,PayPal,Completada,Entregado,Tlaxcala
+TXN-000567,2025-07-26 05:31:31.891891,CUST-9549,Tablet,Computacion,3,6634.99,19904.97,PayPal,Completada,Pendiente,Guadalajara
+TXN-000568,2025-07-26 14:16:12.972972,CUST-8575,Teclado,Accesorios,2,411.68,823.36,Tarjeta,Completada,Enviado,Guadalajara
+TXN-000569,2025-07-26 23:00:54.054054,CUST-1667,Laptop,Computacion,5,14564.71,72823.55,PayPal,Completada,Pendiente,Ciudad de Mexico
+TXN-000570,2025-07-27 07:45:35.135135,CUST-5468,Teclado,Accesorios,5,719.23,3596.15,Tarjeta,Completada,Cancelado,Tlaxcala
+TXN-000571,2025-07-27 16:30:16.216216,CUST-7819,Smartphone,Telefonia,2,14681.54,29363.08,Efectivo,Completada,Cancelado,Tlaxcala
+TXN-000572,2025-07-28 01:14:57.297297,CUST-4719,Monitor,Computacion,4,8105.83,32423.32,Transferencia,Completada,Cancelado,Oaxaca
+TXN-000573,2025-07-28 09:59:38.378378,CUST-3745,Audifonos,Accesorios,1,2632.14,2632.14,Efectivo,Completada,Entregado,Veracruz
+TXN-000574,2025-07-28 18:44:19.459459,CUST-8483,Tablet,Computacion,1,3694.13,3694.13,Transferencia,Completada,Enviado,Oaxaca
+TXN-000575,2025-07-29 03:29:00.540540,CUST-1539,Mouse,Accesorios,1,1445.13,1445.13,Tarjeta,Pendiente,Pendiente,Queretaro
+TXN-000576,2025-07-29 12:13:41.621621,CUST-5964,Monitor,Computacion,2,9570.43,19140.86,Transferencia,Completada,Enviado,Puebla
+TXN-000577,2025-07-29 20:58:22.702702,CUST-5835,Audifonos,Accesorios,2,4033.35,8066.7,Efectivo,Completada,Enviado,Monterrey
+TXN-000578,2025-07-30 05:43:03.783783,CUST-4775,Teclado,Accesorios,3,1985.26,5955.78,Transferencia,Completada,Cancelado,Oaxaca
+TXN-000579,2025-07-30 14:27:44.864864,CUST-7042,Tablet,Computacion,1,9533.79,9533.79,Tarjeta,Completada,Cancelado,Queretaro
+TXN-000580,2025-07-30 23:12:25.945945,CUST-8102,Teclado,Accesorios,4,1936.71,7746.84,Transferencia,Completada,Cancelado,Ciudad de Mexico
+TXN-000581,2025-07-31 07:57:07.027027,CUST-8312,Smartphone,Telefonia,4,6512.1,26048.4,PayPal,Completada,Entregado,Veracruz
+TXN-000582,2025-07-31 16:41:48.108108,CUST-6320,Laptop,Computacion,1,17313.61,17313.61,Efectivo,Completada,Enviado,Ciudad de Mexico
+TXN-000583,2025-08-01 01:26:29.189189,CUST-7132,Tablet,Computacion,1,5704.58,5704.58,PayPal,Completada,Enviado,Monterrey
+TXN-000584,2025-08-01 10:11:10.270270,CUST-8891,Audifonos,Accesorios,1,1381.25,1381.25,Tarjeta,Completada,Entregado,Queretaro
+TXN-000585,2025-08-01 18:55:51.351351,CUST-3779,Audifonos,Accesorios,2,1133.61,2267.22,Transferencia,Completada,Entregado,Puebla
+TXN-000586,2025-08-02 03:40:32.432432,CUST-1924,Smartphone,Telefonia,2,17448.27,34896.54,PayPal,Completada,Entregado,Veracruz
+TXN-000587,2025-08-02 12:25:13.513513,CUST-2581,Smartphone,Telefonia,2,20626.44,41252.88,PayPal,Cancelada,Enviado,Guadalajara
+TXN-000588,2025-08-02 21:09:54.594594,CUST-8714,Impresora,Computacion,5,5258.94,26294.7,Transferencia,Completada,Enviado,Tlaxcala
+TXN-000589,2025-08-03 05:54:35.675675,CUST-4324,Tablet,Computacion,4,4763.55,19054.2,Transferencia,Completada,Cancelado,Oaxaca
+TXN-000590,2025-08-03 14:39:16.756756,CUST-6713,Teclado,Accesorios,4,1678.91,6715.64,Efectivo,Completada,Cancelado,Queretaro
+TXN-000591,2025-08-03 23:23:57.837837,CUST-8026,Mouse,Accesorios,3,1026.74,3080.22,PayPal,Cancelada,Enviado,Ciudad de Mexico
+TXN-000592,2025-08-04 08:08:38.918918,CUST-1255,Audifonos,Accesorios,2,2246.75,4493.5,PayPal,Completada,Cancelado,Puebla
+TXN-000593,2025-08-04 16:53:20.000000,CUST-5804,Audifonos,Accesorios,5,3533.59,17667.95,Tarjeta,Completada,Entregado,Tlaxcala
+TXN-000594,2025-08-05 01:38:01.081081,CUST-2838,Smartphone,Telefonia,5,10198.1,50990.5,Efectivo,Completada,Pendiente,Oaxaca
+TXN-000595,2025-08-05 10:22:42.162162,CUST-1009,Monitor,Computacion,4,5088.94,20355.76,Tarjeta,Completada,Cancelado,Tlaxcala
+TXN-000596,2025-08-05 19:07:23.243243,CUST-3871,Smartphone,Telefonia,2,23349.72,46699.44,PayPal,Completada,Enviado,Oaxaca
+TXN-000597,2025-08-06 03:52:04.324324,CUST-9989,Mouse,Accesorios,3,577.66,1732.98,Tarjeta,Completada,Cancelado,Queretaro
+TXN-000598,2025-08-06 12:36:45.405405,CUST-8409,Teclado,Accesorios,2,1098.98,2197.96,PayPal,Cancelada,Cancelado,Guadalajara
+TXN-000599,2025-08-06 21:21:26.486486,CUST-8418,Teclado,Accesorios,1,1813.24,1813.24,PayPal,Completada,Cancelado,Veracruz
+TXN-000600,2025-08-07 06:06:07.567567,CUST-6124,Monitor,Computacion,2,7807.91,15615.82,Tarjeta,Completada,Pendiente,Queretaro
+TXN-000601,2025-08-07 14:50:48.648648,CUST-2015,Audifonos,Accesorios,1,779.91,779.91,Tarjeta,Completada,Entregado,Tlaxcala
+TXN-000602,2025-08-07 23:35:29.729729,CUST-3193,Smartphone,Telefonia,1,7946.06,7946.06,Transferencia,Completada,Enviado,Tlaxcala
+TXN-000603,2025-08-08 08:20:10.810810,CUST-9415,Impresora,Computacion,3,1550.97,4652.91,Transferencia,Pendiente,Pendiente,Tlaxcala
+TXN-000604,2025-08-08 17:04:51.891891,CUST-8449,Teclado,Accesorios,4,1372.57,5490.28,Transferencia,Completada,Enviado,Veracruz
+TXN-000605,2025-08-09 01:49:32.972972,CUST-5158,Mouse,Accesorios,2,781.98,1563.96,PayPal,Completada,Enviado,Puebla
+TXN-000606,2025-08-09 10:34:14.054054,CUST-4925,Tablet,Computacion,1,4611.3,4611.3,Tarjeta,Completada,Enviado,Oaxaca
+TXN-000607,2025-08-09 19:18:55.135135,CUST-7970,Laptop,Computacion,2,29158.68,58317.36,Efectivo,Completada,Pendiente,Queretaro
+TXN-000608,2025-08-10 04:03:36.216216,CUST-7938,Laptop,Computacion,4,20593.19,82372.76,PayPal,Completada,Entregado,Queretaro
+TXN-000609,2025-08-10 12:48:17.297297,CUST-5784,Laptop,Computacion,4,14837.87,59351.48,Efectivo,Completada,Enviado,Guadalajara
+TXN-000610,2025-08-10 21:32:58.378378,CUST-5000,Impresora,Computacion,5,4753.92,23769.6,Tarjeta,Pendiente,Entregado,Tlaxcala
+TXN-000611,2025-08-11 06:17:39.459459,CUST-2633,Audifonos,Accesorios,4,3558.29,14233.16,PayPal,Cancelada,Entregado,Monterrey
+TXN-000612,2025-08-11 15:02:20.540540,CUST-8266,Smartphone,Telefonia,3,6524.78,19574.34,Efectivo,Completada,Cancelado,Queretaro
+TXN-000613,2025-08-11 23:47:01.621621,CUST-9702,Monitor,Computacion,1,4560.28,4560.28,Efectivo,Cancelada,Pendiente,Veracruz
+TXN-000614,2025-08-12 08:31:42.702702,CUST-1384,Impresora,Computacion,5,6745.28,33726.4,Transferencia,Completada,Pendiente,Puebla
+TXN-000615,2025-08-12 17:16:23.783783,CUST-1404,Impresora,Computacion,3,4487.82,13463.46,Transferencia,Completada,Cancelado,Queretaro
+TXN-000616,2025-08-13 02:01:04.864864,CUST-9175,Teclado,Accesorios,2,1229.18,2458.36,Transferencia,Completada,Cancelado,Oaxaca
+TXN-000617,2025-08-13 10:45:45.945945,CUST-3000,Tablet,Computacion,1,8193.79,8193.79,PayPal,Completada,Entregado,Veracruz
+TXN-000618,2025-08-13 19:30:27.027027,CUST-6989,Impresora,Computacion,4,1785.35,7141.4,Tarjeta,Completada,Enviado,Guadalajara
+TXN-000619,2025-08-14 04:15:08.108108,CUST-2460,Mouse,Accesorios,1,415.47,415.47,Tarjeta,Completada,Pendiente,Guadalajara
+TXN-000620,2025-08-14 12:59:49.189189,CUST-8190,Tablet,Computacion,2,8346.5,16693.0,Transferencia,Completada,Enviado,Oaxaca
+TXN-000621,2025-08-14 21:44:30.270270,CUST-8140,Mouse,Accesorios,5,471.94,2359.7,Transferencia,Completada,Enviado,Tlaxcala
+TXN-000622,2025-08-15 06:29:11.351351,CUST-4636,Audifonos,Accesorios,5,724.91,3624.55,Transferencia,Completada,Cancelado,Guadalajara
+TXN-000623,2025-08-15 15:13:52.432432,CUST-5809,Smartphone,Telefonia,5,21872.99,109364.95,Efectivo,Completada,Enviado,Puebla
+TXN-000624,2025-08-15 23:58:33.513513,CUST-5178,Laptop,Computacion,4,29623.85,118495.4,Transferencia,Completada,Entregado,Veracruz
+TXN-000625,2025-08-16 08:43:14.594594,CUST-8245,Impresora,Computacion,3,6655.43,19966.29,Efectivo,Completada,Cancelado,Queretaro
+TXN-000626,2025-08-16 17:27:55.675675,CUST-7600,Smartphone,Telefonia,3,22075.7,66227.1,Tarjeta,Completada,Enviado,Puebla
+TXN-000627,2025-08-17 02:12:36.756756,CUST-6997,Audifonos,Accesorios,1,1588.9,1588.9,PayPal,Completada,Cancelado,Tlaxcala
+TXN-000628,2025-08-17 10:57:17.837837,CUST-3048,Monitor,Computacion,4,9704.7,38818.8,PayPal,Pendiente,Entregado,Puebla
+TXN-000629,2025-08-17 19:41:58.918918,CUST-5780,Monitor,Computacion,5,3976.94,19884.7,PayPal,Completada,Entregado,Puebla
+TXN-000630,2025-08-18 04:26:40.000000,CUST-1716,Audifonos,Accesorios,5,4781.43,23907.15,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000631,2025-08-18 13:11:21.081081,CUST-8939,Mouse,Accesorios,2,1493.27,2986.54,Efectivo,Pendiente,Cancelado,Puebla
+TXN-000632,2025-08-18 21:56:02.162162,CUST-6565,Teclado,Accesorios,2,1509.93,3019.86,Efectivo,Completada,Enviado,Oaxaca
+TXN-000633,2025-08-19 06:40:43.243243,CUST-5544,Teclado,Accesorios,5,1967.94,9839.7,Transferencia,Completada,Enviado,Veracruz
+TXN-000634,2025-08-19 15:25:24.324324,CUST-5976,Mouse,Accesorios,5,940.4,4702.0,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000635,2025-08-20 00:10:05.405405,CUST-4419,Monitor,Computacion,4,4446.56,17786.24,Transferencia,Pendiente,Enviado,Veracruz
+TXN-000636,2025-08-20 08:54:46.486486,CUST-8239,Monitor,Computacion,3,5777.47,17332.41,Transferencia,Completada,Entregado,Veracruz
+TXN-000637,2025-08-20 17:39:27.567567,CUST-1249,Impresora,Computacion,2,5358.15,10716.3,PayPal,Completada,Cancelado,Tlaxcala
+TXN-000638,2025-08-21 02:24:08.648648,CUST-9865,Monitor,Computacion,3,3048.11,9144.33,Efectivo,Completada,Cancelado,Tlaxcala
+TXN-000639,2025-08-21 11:08:49.729729,CUST-1770,Smartphone,Telefonia,4,17446.87,69787.48,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000640,2025-08-21 19:53:30.810810,CUST-5363,Monitor,Computacion,5,9858.83,49294.15,Transferencia,Completada,Cancelado,Guadalajara
+TXN-000641,2025-08-22 04:38:11.891891,CUST-2077,Tablet,Computacion,3,5281.29,15843.87,Transferencia,Completada,Enviado,Monterrey
+TXN-000642,2025-08-22 13:22:52.972972,CUST-9427,Impresora,Computacion,5,6651.87,33259.35,Tarjeta,Completada,Enviado,Tlaxcala
+TXN-000643,2025-08-22 22:07:34.054054,CUST-9580,Laptop,Computacion,5,28157.98,140789.9,Tarjeta,Cancelada,Entregado,Monterrey
+TXN-000644,2025-08-23 06:52:15.135135,CUST-8901,Monitor,Computacion,1,9577.76,9577.76,Transferencia,Completada,Pendiente,Tlaxcala
+TXN-000645,2025-08-23 15:36:56.216216,CUST-5858,Mouse,Accesorios,3,1448.18,4344.54,Tarjeta,Completada,Pendiente,Tlaxcala
+TXN-000646,2025-08-24 00:21:37.297297,CUST-7544,Laptop,Computacion,3,20429.19,61287.57,Tarjeta,Pendiente,Entregado,Veracruz
+TXN-000647,2025-08-24 09:06:18.378378,CUST-5719,Smartphone,Telefonia,5,24546.16,122730.8,Transferencia,Completada,Pendiente,Ciudad de Mexico
+TXN-000648,2025-08-24 17:50:59.459459,CUST-3814,Mouse,Accesorios,4,1184.5,4738.0,Transferencia,Completada,Entregado,Veracruz
+TXN-000649,2025-08-25 02:35:40.540540,CUST-4374,Laptop,Computacion,1,13233.43,13233.43,Efectivo,Completada,Enviado,Queretaro
+TXN-000650,2025-08-25 11:20:21.621621,CUST-2252,Mouse,Accesorios,5,819.97,4099.85,Transferencia,Pendiente,Cancelado,Oaxaca
+TXN-000651,2025-08-25 20:05:02.702702,CUST-7996,Smartphone,Telefonia,2,19366.62,38733.24,Transferencia,Completada,Cancelado,Veracruz
+TXN-000652,2025-08-26 04:49:43.783783,CUST-5673,Impresora,Computacion,2,3107.71,6215.42,PayPal,Completada,Enviado,Monterrey
+TXN-000653,2025-08-26 13:34:24.864864,CUST-5530,Tablet,Computacion,1,10687.38,10687.38,Efectivo,Cancelada,Cancelado,Monterrey
+TXN-000654,2025-08-26 22:19:05.945945,CUST-7881,Smartphone,Telefonia,4,18332.01,73328.04,Efectivo,Completada,Cancelado,Oaxaca
+TXN-000655,2025-08-27 07:03:47.027027,CUST-7949,Smartphone,Telefonia,5,8253.99,41269.95,Efectivo,Pendiente,Pendiente,Puebla
+TXN-000656,2025-08-27 15:48:28.108108,CUST-7241,Mouse,Accesorios,3,934.61,2803.83,PayPal,Cancelada,Enviado,Puebla
+TXN-000657,2025-08-28 00:33:09.189189,CUST-9017,Impresora,Computacion,1,6515.57,6515.57,Transferencia,Completada,Pendiente,Oaxaca
+TXN-000658,2025-08-28 09:17:50.270270,CUST-7941,Audifonos,Accesorios,4,2745.03,10980.12,Efectivo,Completada,Pendiente,Oaxaca
+TXN-000659,2025-08-28 18:02:31.351351,CUST-8002,Teclado,Accesorios,3,320.58,961.74,Efectivo,Completada,Cancelado,Veracruz
+TXN-000660,2025-08-29 02:47:12.432432,CUST-2331,Monitor,Computacion,2,2567.79,5135.58,Tarjeta,Completada,Cancelado,Oaxaca
+TXN-000661,2025-08-29 11:31:53.513513,CUST-5261,Monitor,Computacion,2,5177.72,10355.44,Efectivo,Completada,Enviado,Queretaro
+TXN-000662,2025-08-29 20:16:34.594594,CUST-8648,Tablet,Computacion,3,14114.33,42342.99,Transferencia,Completada,Cancelado,Ciudad de Mexico
+TXN-000663,2025-08-30 05:01:15.675675,CUST-6115,Tablet,Computacion,1,5744.12,5744.12,Transferencia,Cancelada,Cancelado,Puebla
+TXN-000664,2025-08-30 13:45:56.756756,CUST-5637,Monitor,Computacion,2,7257.73,14515.46,Tarjeta,Completada,Enviado,Puebla
+TXN-000665,2025-08-30 22:30:37.837837,CUST-5854,Teclado,Accesorios,5,677.53,3387.65,Efectivo,Completada,Cancelado,Queretaro
+TXN-000666,2025-08-31 07:15:18.918918,CUST-4177,Monitor,Computacion,3,4912.52,14737.56,Efectivo,Pendiente,Pendiente,Guadalajara
+TXN-000667,2025-08-31 16:00:00.000000,CUST-8730,Audifonos,Accesorios,3,4316.19,12948.57,Efectivo,Cancelada,Enviado,Queretaro
+TXN-000668,2025-09-01 00:44:41.081081,CUST-3180,Teclado,Accesorios,2,1539.06,3078.12,PayPal,Completada,Cancelado,Queretaro
+TXN-000669,2025-09-01 09:29:22.162162,CUST-5892,Tablet,Computacion,1,4144.79,4144.79,Efectivo,Cancelada,Entregado,Oaxaca
+TXN-000670,2025-09-01 18:14:03.243243,CUST-8043,Laptop,Computacion,5,18574.04,92870.2,Transferencia,Completada,Enviado,Tlaxcala
+TXN-000671,2025-09-02 02:58:44.324324,CUST-1137,Mouse,Accesorios,1,237.92,237.92,Transferencia,Pendiente,Enviado,Tlaxcala
+TXN-000672,2025-09-02 11:43:25.405405,CUST-7327,Audifonos,Accesorios,4,2664.01,10656.04,PayPal,Completada,Entregado,Queretaro
+TXN-000673,2025-09-02 20:28:06.486486,CUST-4472,Audifonos,Accesorios,4,3480.95,13923.8,PayPal,Completada,Cancelado,Oaxaca
+TXN-000674,2025-09-03 05:12:47.567567,CUST-6449,Impresora,Computacion,2,2270.27,4540.54,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000675,2025-09-03 13:57:28.648648,CUST-3832,Tablet,Computacion,2,6466.62,12933.24,Tarjeta,Completada,Enviado,Tlaxcala
+TXN-000676,2025-09-03 22:42:09.729729,CUST-4579,Tablet,Computacion,2,7774.04,15548.08,PayPal,Completada,Enviado,Guadalajara
+TXN-000677,2025-09-04 07:26:50.810810,CUST-6971,Smartphone,Telefonia,4,23390.62,93562.48,PayPal,Completada,Cancelado,Monterrey
+TXN-000678,2025-09-04 16:11:31.891891,CUST-5164,Audifonos,Accesorios,1,4969.65,4969.65,Efectivo,Completada,Cancelado,Oaxaca
+TXN-000679,2025-09-05 00:56:12.972972,CUST-8941,Smartphone,Telefonia,1,5898.23,5898.23,Efectivo,Pendiente,Pendiente,Queretaro
+TXN-000680,2025-09-05 09:40:54.054054,CUST-6569,Smartphone,Telefonia,2,20220.16,40440.32,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000681,2025-09-05 18:25:35.135135,CUST-5300,Mouse,Accesorios,5,683.24,3416.2,Tarjeta,Completada,Enviado,Ciudad de Mexico
+TXN-000682,2025-09-06 03:10:16.216216,CUST-7269,Smartphone,Telefonia,1,12849.16,12849.16,PayPal,Completada,Entregado,Veracruz
+TXN-000683,2025-09-06 11:54:57.297297,CUST-4818,Teclado,Accesorios,4,1582.25,6329.0,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000684,2025-09-06 20:39:38.378378,CUST-2906,Monitor,Computacion,3,9388.2,28164.6,Efectivo,Pendiente,Cancelado,Tlaxcala
+TXN-000685,2025-09-07 05:24:19.459459,CUST-7254,Laptop,Computacion,3,29018.57,87055.71,PayPal,Pendiente,Pendiente,Queretaro
+TXN-000686,2025-09-07 14:09:00.540540,CUST-1760,Tablet,Computacion,3,9925.47,29776.41,Tarjeta,Completada,Cancelado,Monterrey
+TXN-000687,2025-09-07 22:53:41.621621,CUST-8830,Teclado,Accesorios,5,907.11,4535.55,PayPal,Completada,Cancelado,Tlaxcala
+TXN-000688,2025-09-08 07:38:22.702702,CUST-8350,Laptop,Computacion,2,25750.98,51501.96,PayPal,Completada,Pendiente,Oaxaca
+TXN-000689,2025-09-08 16:23:03.783783,CUST-7238,Audifonos,Accesorios,4,1629.51,6518.04,Efectivo,Completada,Enviado,Monterrey
+TXN-000690,2025-09-09 01:07:44.864864,CUST-7090,Audifonos,Accesorios,5,3038.33,15191.65,Tarjeta,Pendiente,Cancelado,Oaxaca
+TXN-000691,2025-09-09 09:52:25.945945,CUST-7031,Audifonos,Accesorios,4,2113.6,8454.4,Transferencia,Completada,Pendiente,Ciudad de Mexico
+TXN-000692,2025-09-09 18:37:07.027027,CUST-8687,Teclado,Accesorios,4,1416.27,5665.08,Tarjeta,Completada,Entregado,Guadalajara
+TXN-000693,2025-09-10 03:21:48.108108,CUST-9472,Teclado,Accesorios,2,708.68,1417.36,PayPal,Completada,Pendiente,Puebla
+TXN-000694,2025-09-10 12:06:29.189189,CUST-2887,Tablet,Computacion,3,5299.12,15897.36,PayPal,Completada,Entregado,Monterrey
+TXN-000695,2025-09-10 20:51:10.270270,CUST-4266,Monitor,Computacion,2,9386.79,18773.58,PayPal,Cancelada,Cancelado,Queretaro
+TXN-000696,2025-09-11 05:35:51.351351,CUST-1666,Impresora,Computacion,5,2161.72,10808.6,Tarjeta,Completada,Pendiente,Veracruz
+TXN-000697,2025-09-11 14:20:32.432432,CUST-5188,Smartphone,Telefonia,5,15119.16,75595.8,Efectivo,Completada,Pendiente,Puebla
+TXN-000698,2025-09-11 23:05:13.513513,CUST-1671,Audifonos,Accesorios,5,1493.84,7469.2,PayPal,Completada,Entregado,Ciudad de Mexico
+TXN-000699,2025-09-12 07:49:54.594594,CUST-7777,Mouse,Accesorios,2,250.61,501.22,PayPal,Completada,Pendiente,Ciudad de Mexico
+TXN-000700,2025-09-12 16:34:35.675675,CUST-8570,Monitor,Computacion,4,2770.14,11080.56,Tarjeta,Completada,Pendiente,Queretaro
+TXN-000701,2025-09-13 01:19:16.756756,CUST-8956,Mouse,Accesorios,4,427.79,1711.16,Transferencia,Completada,Cancelado,Puebla
+TXN-000702,2025-09-13 10:03:57.837837,CUST-6124,Tablet,Computacion,1,13401.24,13401.24,Transferencia,Completada,Pendiente,Veracruz
+TXN-000703,2025-09-13 18:48:38.918918,CUST-6585,Tablet,Computacion,5,6389.74,31948.7,Efectivo,Completada,Enviado,Monterrey
+TXN-000704,2025-09-14 03:33:20.000000,CUST-5777,Tablet,Computacion,4,14405.51,57622.04,Efectivo,Completada,Entregado,Monterrey
+TXN-000705,2025-09-14 12:18:01.081081,CUST-4900,Laptop,Computacion,1,21632.45,21632.45,PayPal,Completada,Pendiente,Puebla
+TXN-000706,2025-09-14 21:02:42.162162,CUST-7677,Mouse,Accesorios,4,767.6,3070.4,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000707,2025-09-15 05:47:23.243243,CUST-7981,Monitor,Computacion,5,6850.67,34253.35,PayPal,Completada,Entregado,Tlaxcala
+TXN-000708,2025-09-15 14:32:04.324324,CUST-7376,Impresora,Computacion,3,4858.54,14575.62,Efectivo,Completada,Entregado,Guadalajara
+TXN-000709,2025-09-15 23:16:45.405405,CUST-1523,Monitor,Computacion,5,8190.82,40954.1,Tarjeta,Completada,Pendiente,Oaxaca
+TXN-000710,2025-09-16 08:01:26.486486,CUST-3393,Teclado,Accesorios,2,780.24,1560.48,Tarjeta,Completada,Pendiente,Monterrey
+TXN-000711,2025-09-16 16:46:07.567567,CUST-3593,Teclado,Accesorios,4,900.19,3600.76,Efectivo,Completada,Entregado,Tlaxcala
+TXN-000712,2025-09-17 01:30:48.648648,CUST-8240,Audifonos,Accesorios,4,4523.42,18093.68,Transferencia,Completada,Enviado,Guadalajara
+TXN-000713,2025-09-17 10:15:29.729729,CUST-7937,Impresora,Computacion,2,7651.97,15303.94,Transferencia,Completada,Entregado,Guadalajara
+TXN-000714,2025-09-17 19:00:10.810810,CUST-7190,Teclado,Accesorios,2,1817.35,3634.7,Tarjeta,Completada,Enviado,Guadalajara
+TXN-000715,2025-09-18 03:44:51.891891,CUST-6240,Tablet,Computacion,3,8033.38,24100.14,PayPal,Completada,Entregado,Ciudad de Mexico
+TXN-000716,2025-09-18 12:29:32.972972,CUST-7493,Monitor,Computacion,4,8352.74,33410.96,Transferencia,Completada,Cancelado,Queretaro
+TXN-000717,2025-09-18 21:14:14.054054,CUST-3878,Mouse,Accesorios,4,819.24,3276.96,PayPal,Completada,Entregado,Guadalajara
+TXN-000718,2025-09-19 05:58:55.135135,CUST-5143,Tablet,Computacion,3,8970.48,26911.44,Transferencia,Completada,Entregado,Veracruz
+TXN-000719,2025-09-19 14:43:36.216216,CUST-4644,Laptop,Computacion,1,14093.6,14093.6,Transferencia,Pendiente,Pendiente,Puebla
+TXN-000720,2025-09-19 23:28:17.297297,CUST-5432,Teclado,Accesorios,3,1304.92,3914.76,PayPal,Completada,Enviado,Monterrey
+TXN-000721,2025-09-20 08:12:58.378378,CUST-2276,Tablet,Computacion,5,5233.63,26168.15,Efectivo,Completada,Cancelado,Veracruz
+TXN-000722,2025-09-20 16:57:39.459459,CUST-6811,Tablet,Computacion,4,6978.78,27915.12,Transferencia,Completada,Enviado,Puebla
+TXN-000723,2025-09-21 01:42:20.540540,CUST-1302,Laptop,Computacion,2,27100.6,54201.2,Transferencia,Completada,Cancelado,Oaxaca
+TXN-000724,2025-09-21 10:27:01.621621,CUST-1638,Smartphone,Telefonia,5,9141.52,45707.6,PayPal,Completada,Entregado,Queretaro
+TXN-000725,2025-09-21 19:11:42.702702,CUST-1055,Monitor,Computacion,4,3033.69,12134.76,Efectivo,Completada,Pendiente,Oaxaca
+TXN-000726,2025-09-22 03:56:23.783783,CUST-9717,Mouse,Accesorios,3,289.71,869.13,Transferencia,Pendiente,Pendiente,Puebla
+TXN-000727,2025-09-22 12:41:04.864864,CUST-9150,Audifonos,Accesorios,5,4733.53,23667.65,Transferencia,Completada,Enviado,Veracruz
+TXN-000728,2025-09-22 21:25:45.945945,CUST-3125,Smartphone,Telefonia,4,15138.41,60553.64,Efectivo,Cancelada,Pendiente,Puebla
+TXN-000729,2025-09-23 06:10:27.027027,CUST-1364,Teclado,Accesorios,1,996.0,996.0,Transferencia,Completada,Enviado,Guadalajara
+TXN-000730,2025-09-23 14:55:08.108108,CUST-7809,Tablet,Computacion,1,12730.54,12730.54,Efectivo,Completada,Enviado,Ciudad de Mexico
+TXN-000731,2025-09-23 23:39:49.189189,CUST-5621,Impresora,Computacion,2,6932.87,13865.74,Efectivo,Completada,Cancelado,Monterrey
+TXN-000732,2025-09-24 08:24:30.270270,CUST-6126,Laptop,Computacion,4,16643.82,66575.28,PayPal,Completada,Enviado,Oaxaca
+TXN-000733,2025-09-24 17:09:11.351351,CUST-6122,Laptop,Computacion,1,23872.36,23872.36,Tarjeta,Completada,Cancelado,Monterrey
+TXN-000734,2025-09-25 01:53:52.432432,CUST-2646,Impresora,Computacion,3,6512.3,19536.9,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000735,2025-09-25 10:38:33.513513,CUST-1918,Monitor,Computacion,4,7409.88,29639.52,PayPal,Completada,Enviado,Guadalajara
+TXN-000736,2025-09-25 19:23:14.594594,CUST-3797,Smartphone,Telefonia,3,8031.9,24095.7,Tarjeta,Cancelada,Enviado,Guadalajara
+TXN-000737,2025-09-26 04:07:55.675675,CUST-7506,Audifonos,Accesorios,3,4441.47,13324.41,Transferencia,Pendiente,Entregado,Oaxaca
+TXN-000738,2025-09-26 12:52:36.756756,CUST-6870,Monitor,Computacion,1,6543.21,6543.21,Tarjeta,Completada,Enviado,Oaxaca
+TXN-000739,2025-09-26 21:37:17.837837,CUST-2531,Impresora,Computacion,4,3336.07,13344.28,Efectivo,Completada,Enviado,Guadalajara
+TXN-000740,2025-09-27 06:21:58.918918,CUST-9172,Tablet,Computacion,5,8102.74,40513.7,Efectivo,Completada,Entregado,Tlaxcala
+TXN-000741,2025-09-27 15:06:40.000000,CUST-4345,Impresora,Computacion,1,1744.21,1744.21,Efectivo,Completada,Entregado,Monterrey
+TXN-000742,2025-09-27 23:51:21.081081,CUST-8673,Monitor,Computacion,1,3459.0,3459.0,Efectivo,Completada,Pendiente,Queretaro
+TXN-000743,2025-09-28 08:36:02.162162,CUST-7949,Mouse,Accesorios,4,1195.21,4780.84,Efectivo,Completada,Enviado,Ciudad de Mexico
+TXN-000744,2025-09-28 17:20:43.243243,CUST-7882,Laptop,Computacion,4,10000.23,40000.92,PayPal,Completada,Pendiente,Monterrey
+TXN-000745,2025-09-29 02:05:24.324324,CUST-2906,Laptop,Computacion,3,18331.32,54993.96,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000746,2025-09-29 10:50:05.405405,CUST-4086,Teclado,Accesorios,4,1188.27,4753.08,PayPal,Cancelada,Entregado,Tlaxcala
+TXN-000747,2025-09-29 19:34:46.486486,CUST-9152,Teclado,Accesorios,3,392.88,1178.64,Transferencia,Completada,Cancelado,Queretaro
+TXN-000748,2025-09-30 04:19:27.567567,CUST-6750,Impresora,Computacion,1,7825.01,7825.01,Efectivo,Cancelada,Pendiente,Veracruz
+TXN-000749,2025-09-30 13:04:08.648648,CUST-9905,Audifonos,Accesorios,2,1517.56,3035.12,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000750,2025-09-30 21:48:49.729729,CUST-2062,Tablet,Computacion,5,6650.38,33251.9,Tarjeta,Completada,Enviado,Monterrey
+TXN-000751,2025-10-01 06:33:30.810810,CUST-2976,Mouse,Accesorios,1,595.13,595.13,Transferencia,Completada,Entregado,Puebla
+TXN-000752,2025-10-01 15:18:11.891891,CUST-2296,Smartphone,Telefonia,4,9608.33,38433.32,Efectivo,Completada,Enviado,Queretaro
+TXN-000753,2025-10-02 00:02:52.972972,CUST-7229,Monitor,Computacion,5,2511.05,12555.25,Efectivo,Completada,Enviado,Guadalajara
+TXN-000754,2025-10-02 08:47:34.054054,CUST-8641,Audifonos,Accesorios,2,3782.05,7564.1,Transferencia,Completada,Entregado,Guadalajara
+TXN-000755,2025-10-02 17:32:15.135135,CUST-1125,Tablet,Computacion,2,14602.15,29204.3,PayPal,Completada,Enviado,Tlaxcala
+TXN-000756,2025-10-03 02:16:56.216216,CUST-5632,Teclado,Accesorios,3,681.3,2043.9,Efectivo,Completada,Entregado,Ciudad de Mexico
+TXN-000757,2025-10-03 11:01:37.297297,CUST-7288,Impresora,Computacion,5,5809.81,29049.05,Tarjeta,Completada,Cancelado,Veracruz
+TXN-000758,2025-10-03 19:46:18.378378,CUST-4596,Monitor,Computacion,3,8064.22,24192.66,Efectivo,Completada,Enviado,Ciudad de Mexico
+TXN-000759,2025-10-04 04:30:59.459459,CUST-7168,Teclado,Accesorios,1,1742.32,1742.32,Tarjeta,Completada,Entregado,Guadalajara
+TXN-000760,2025-10-04 13:15:40.540540,CUST-8561,Impresora,Computacion,5,4247.09,21235.45,Tarjeta,Completada,Pendiente,Oaxaca
+TXN-000761,2025-10-04 22:00:21.621621,CUST-9258,Monitor,Computacion,1,4771.98,4771.98,Efectivo,Completada,Enviado,Puebla
+TXN-000762,2025-10-05 06:45:02.702702,CUST-1232,Smartphone,Telefonia,3,11505.9,34517.7,Efectivo,Completada,Cancelado,Queretaro
+TXN-000763,2025-10-05 15:29:43.783783,CUST-7371,Tablet,Computacion,5,11551.46,57757.3,Tarjeta,Cancelada,Entregado,Tlaxcala
+TXN-000764,2025-10-06 00:14:24.864864,CUST-5206,Monitor,Computacion,3,8625.85,25877.55,Transferencia,Completada,Enviado,Oaxaca
+TXN-000765,2025-10-06 08:59:05.945945,CUST-8943,Mouse,Accesorios,5,436.1,2180.5,Transferencia,Completada,Enviado,Monterrey
+TXN-000766,2025-10-06 17:43:47.027027,CUST-7891,Audifonos,Accesorios,3,2169.23,6507.69,Efectivo,Completada,Enviado,Veracruz
+TXN-000767,2025-10-07 02:28:28.108108,CUST-7738,Laptop,Computacion,2,28038.8,56077.6,PayPal,Completada,Cancelado,Oaxaca
+TXN-000768,2025-10-07 11:13:09.189189,CUST-3472,Mouse,Accesorios,3,1248.7,3746.1,Transferencia,Completada,Entregado,Monterrey
+TXN-000769,2025-10-07 19:57:50.270270,CUST-3739,Mouse,Accesorios,2,1480.32,2960.64,Efectivo,Completada,Pendiente,Oaxaca
+TXN-000770,2025-10-08 04:42:31.351351,CUST-6401,Audifonos,Accesorios,3,3894.12,11682.36,Transferencia,Completada,Pendiente,Veracruz
+TXN-000771,2025-10-08 13:27:12.432432,CUST-2761,Laptop,Computacion,5,17863.9,89319.5,PayPal,Completada,Pendiente,Queretaro
+TXN-000772,2025-10-08 22:11:53.513513,CUST-1876,Mouse,Accesorios,5,967.83,4839.15,Efectivo,Completada,Entregado,Oaxaca
+TXN-000773,2025-10-09 06:56:34.594594,CUST-4812,Monitor,Computacion,5,7457.61,37288.05,PayPal,Completada,Pendiente,Tlaxcala
+TXN-000774,2025-10-09 15:41:15.675675,CUST-2460,Monitor,Computacion,4,3088.42,12353.68,Efectivo,Completada,Cancelado,Guadalajara
+TXN-000775,2025-10-10 00:25:56.756756,CUST-2733,Monitor,Computacion,1,6583.73,6583.73,PayPal,Cancelada,Entregado,Ciudad de Mexico
+TXN-000776,2025-10-10 09:10:37.837837,CUST-2605,Laptop,Computacion,5,24186.42,120932.1,Transferencia,Completada,Enviado,Oaxaca
+TXN-000777,2025-10-10 17:55:18.918918,CUST-6622,Mouse,Accesorios,2,417.52,835.04,Transferencia,Completada,Cancelado,Tlaxcala
+TXN-000778,2025-10-11 02:40:00.000000,CUST-7767,Impresora,Computacion,5,6574.11,32870.55,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000779,2025-10-11 11:24:41.081081,CUST-7986,Laptop,Computacion,4,21675.46,86701.84,PayPal,Completada,Pendiente,Queretaro
+TXN-000780,2025-10-11 20:09:22.162162,CUST-4517,Monitor,Computacion,2,9641.66,19283.32,PayPal,Cancelada,Cancelado,Monterrey
+TXN-000781,2025-10-12 04:54:03.243243,CUST-4735,Audifonos,Accesorios,4,690.9,2763.6,Efectivo,Completada,Entregado,Ciudad de Mexico
+TXN-000782,2025-10-12 13:38:44.324324,CUST-9434,Mouse,Accesorios,2,544.92,1089.84,Transferencia,Pendiente,Cancelado,Monterrey
+TXN-000783,2025-10-12 22:23:25.405405,CUST-3590,Mouse,Accesorios,3,982.02,2946.06,Efectivo,Pendiente,Enviado,Oaxaca
+TXN-000784,2025-10-13 07:08:06.486486,CUST-2063,Teclado,Accesorios,1,804.15,804.15,Transferencia,Completada,Entregado,Tlaxcala
+TXN-000785,2025-10-13 15:52:47.567567,CUST-5324,Teclado,Accesorios,1,1514.52,1514.52,Tarjeta,Completada,Cancelado,Guadalajara
+TXN-000786,2025-10-14 00:37:28.648648,CUST-6342,Smartphone,Telefonia,4,20180.11,80720.44,Efectivo,Completada,Cancelado,Oaxaca
+TXN-000787,2025-10-14 09:22:09.729729,CUST-1005,Impresora,Computacion,1,2166.35,2166.35,Transferencia,Cancelada,Cancelado,Monterrey
+TXN-000788,2025-10-14 18:06:50.810810,CUST-8489,Impresora,Computacion,4,4840.05,19360.2,Transferencia,Completada,Cancelado,Veracruz
+TXN-000789,2025-10-15 02:51:31.891891,CUST-9659,Tablet,Computacion,4,9106.69,36426.76,Efectivo,Completada,Entregado,Ciudad de Mexico
+TXN-000790,2025-10-15 11:36:12.972972,CUST-9195,Impresora,Computacion,4,3900.33,15601.32,Efectivo,Completada,Enviado,Oaxaca
+TXN-000791,2025-10-15 20:20:54.054054,CUST-6966,Teclado,Accesorios,1,1885.97,1885.97,Transferencia,Completada,Cancelado,Monterrey
+TXN-000792,2025-10-16 05:05:35.135135,CUST-9837,Laptop,Computacion,4,26550.13,106200.52,Efectivo,Completada,Entregado,Queretaro
+TXN-000793,2025-10-16 13:50:16.216216,CUST-1117,Impresora,Computacion,1,6031.86,6031.86,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000794,2025-10-16 22:34:57.297297,CUST-3551,Teclado,Accesorios,4,1514.36,6057.44,Efectivo,Pendiente,Cancelado,Queretaro
+TXN-000795,2025-10-17 07:19:38.378378,CUST-6560,Smartphone,Telefonia,5,14234.32,71171.6,Efectivo,Pendiente,Enviado,Monterrey
+TXN-000796,2025-10-17 16:04:19.459459,CUST-5289,Mouse,Accesorios,4,1397.29,5589.16,Efectivo,Pendiente,Enviado,Tlaxcala
+TXN-000797,2025-10-18 00:49:00.540540,CUST-1846,Impresora,Computacion,2,6014.87,12029.74,Transferencia,Completada,Entregado,Puebla
+TXN-000798,2025-10-18 09:33:41.621621,CUST-7316,Smartphone,Telefonia,4,19579.62,78318.48,PayPal,Completada,Enviado,Queretaro
+TXN-000799,2025-10-18 18:18:22.702702,CUST-7469,Mouse,Accesorios,3,1320.2,3960.6,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000800,2025-10-19 03:03:03.783783,CUST-9915,Audifonos,Accesorios,4,1733.32,6933.28,Tarjeta,Completada,Cancelado,Guadalajara
+TXN-000801,2025-10-19 11:47:44.864864,CUST-1224,Audifonos,Accesorios,2,4131.82,8263.64,PayPal,Completada,Enviado,Oaxaca
+TXN-000802,2025-10-19 20:32:25.945945,CUST-5208,Mouse,Accesorios,2,453.81,907.62,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000803,2025-10-20 05:17:07.027027,CUST-7283,Impresora,Computacion,1,3744.72,3744.72,PayPal,Completada,Pendiente,Tlaxcala
+TXN-000804,2025-10-20 14:01:48.108108,CUST-3048,Tablet,Computacion,5,7027.33,35136.65,Transferencia,Cancelada,Cancelado,Monterrey
+TXN-000805,2025-10-20 22:46:29.189189,CUST-7233,Teclado,Accesorios,4,1963.49,7853.96,Tarjeta,Completada,Cancelado,Veracruz
+TXN-000806,2025-10-21 07:31:10.270270,CUST-2828,Laptop,Computacion,1,27130.74,27130.74,PayPal,Completada,Pendiente,Guadalajara
+TXN-000807,2025-10-21 16:15:51.351351,CUST-2917,Laptop,Computacion,5,24023.4,120117.0,Transferencia,Completada,Pendiente,Tlaxcala
+TXN-000808,2025-10-22 01:00:32.432432,CUST-5234,Monitor,Computacion,4,7952.93,31811.72,Tarjeta,Completada,Entregado,Queretaro
+TXN-000809,2025-10-22 09:45:13.513513,CUST-7988,Mouse,Accesorios,3,930.69,2792.07,Efectivo,Completada,Entregado,Queretaro
+TXN-000810,2025-10-22 18:29:54.594594,CUST-3026,Laptop,Computacion,4,28941.81,115767.24,Transferencia,Cancelada,Enviado,Oaxaca
+TXN-000811,2025-10-23 03:14:35.675675,CUST-4744,Impresora,Computacion,2,4725.68,9451.36,Tarjeta,Pendiente,Enviado,Veracruz
+TXN-000812,2025-10-23 11:59:16.756756,CUST-1009,Tablet,Computacion,2,7566.21,15132.42,Transferencia,Pendiente,Enviado,Tlaxcala
+TXN-000813,2025-10-23 20:43:57.837837,CUST-1260,Mouse,Accesorios,3,411.95,1235.85,Tarjeta,Cancelada,Enviado,Puebla
+TXN-000814,2025-10-24 05:28:38.918918,CUST-7038,Tablet,Computacion,1,12434.47,12434.47,Tarjeta,Completada,Entregado,Guadalajara
+TXN-000815,2025-10-24 14:13:20.000000,CUST-3219,Impresora,Computacion,5,6273.89,31369.45,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000816,2025-10-24 22:58:01.081081,CUST-8041,Laptop,Computacion,4,17687.1,70748.4,Transferencia,Completada,Enviado,Tlaxcala
+TXN-000817,2025-10-25 07:42:42.162162,CUST-3060,Laptop,Computacion,2,10503.87,21007.74,PayPal,Completada,Cancelado,Tlaxcala
+TXN-000818,2025-10-25 16:27:23.243243,CUST-6287,Monitor,Computacion,1,8792.48,8792.48,Efectivo,Completada,Enviado,Puebla
+TXN-000819,2025-10-26 01:12:04.324324,CUST-2619,Laptop,Computacion,3,10228.36,30685.08,Efectivo,Completada,Pendiente,Oaxaca
+TXN-000820,2025-10-26 09:56:45.405405,CUST-9512,Mouse,Accesorios,2,1114.81,2229.62,Tarjeta,Completada,Enviado,Monterrey
+TXN-000821,2025-10-26 18:41:26.486486,CUST-2342,Impresora,Computacion,3,7806.67,23420.01,PayPal,Completada,Enviado,Monterrey
+TXN-000822,2025-10-27 03:26:07.567567,CUST-3832,Audifonos,Accesorios,4,2469.48,9877.92,Transferencia,Completada,Enviado,Guadalajara
+TXN-000823,2025-10-27 12:10:48.648648,CUST-3824,Impresora,Computacion,5,3027.33,15136.65,PayPal,Completada,Entregado,Guadalajara
+TXN-000824,2025-10-27 20:55:29.729729,CUST-2994,Mouse,Accesorios,2,1116.33,2232.66,PayPal,Completada,Pendiente,Ciudad de Mexico
+TXN-000825,2025-10-28 05:40:10.810810,CUST-4490,Mouse,Accesorios,2,1262.27,2524.54,PayPal,Completada,Enviado,Tlaxcala
+TXN-000826,2025-10-28 14:24:51.891891,CUST-8984,Monitor,Computacion,4,6598.23,26392.92,PayPal,Completada,Enviado,Veracruz
+TXN-000827,2025-10-28 23:09:32.972972,CUST-2604,Monitor,Computacion,1,9752.76,9752.76,PayPal,Completada,Cancelado,Tlaxcala
+TXN-000828,2025-10-29 07:54:14.054054,CUST-1235,Laptop,Computacion,5,11033.37,55166.85,Tarjeta,Completada,Pendiente,Monterrey
+TXN-000829,2025-10-29 16:38:55.135135,CUST-2908,Smartphone,Telefonia,2,15095.91,30191.82,Tarjeta,Completada,Enviado,Ciudad de Mexico
+TXN-000830,2025-10-30 01:23:36.216216,CUST-9567,Impresora,Computacion,5,6169.95,30849.75,Efectivo,Completada,Cancelado,Tlaxcala
+TXN-000831,2025-10-30 10:08:17.297297,CUST-4530,Impresora,Computacion,2,7107.16,14214.32,Tarjeta,Completada,Cancelado,Puebla
+TXN-000832,2025-10-30 18:52:58.378378,CUST-6256,Smartphone,Telefonia,5,8585.11,42925.55,Efectivo,Completada,Entregado,Monterrey
+TXN-000833,2025-10-31 03:37:39.459459,CUST-3635,Monitor,Computacion,3,8500.03,25500.09,Efectivo,Completada,Cancelado,Tlaxcala
+TXN-000834,2025-10-31 12:22:20.540540,CUST-9162,Laptop,Computacion,2,21054.14,42108.28,Transferencia,Completada,Enviado,Tlaxcala
+TXN-000835,2025-10-31 21:07:01.621621,CUST-3560,Smartphone,Telefonia,5,12931.07,64655.35,PayPal,Completada,Entregado,Monterrey
+TXN-000836,2025-11-01 05:51:42.702702,CUST-6415,Laptop,Computacion,1,12634.3,12634.3,Tarjeta,Completada,Entregado,Veracruz
+TXN-000837,2025-11-01 14:36:23.783783,CUST-4391,Laptop,Computacion,3,27305.92,81917.76,Transferencia,Completada,Enviado,Monterrey
+TXN-000838,2025-11-01 23:21:04.864864,CUST-6951,Laptop,Computacion,3,13145.46,39436.38,Tarjeta,Completada,Pendiente,Puebla
+TXN-000839,2025-11-02 08:05:45.945945,CUST-6468,Teclado,Accesorios,1,826.64,826.64,Efectivo,Completada,Cancelado,Puebla
+TXN-000840,2025-11-02 16:50:27.027027,CUST-9007,Mouse,Accesorios,5,577.06,2885.3,Tarjeta,Completada,Entregado,Tlaxcala
+TXN-000841,2025-11-03 01:35:08.108108,CUST-7413,Laptop,Computacion,4,27428.28,109713.12,PayPal,Completada,Pendiente,Guadalajara
+TXN-000842,2025-11-03 10:19:49.189189,CUST-7941,Teclado,Accesorios,1,1443.6,1443.6,Efectivo,Completada,Enviado,Veracruz
+TXN-000843,2025-11-03 19:04:30.270270,CUST-5820,Monitor,Computacion,5,8475.11,42375.55,Efectivo,Completada,Cancelado,Tlaxcala
+TXN-000844,2025-11-04 03:49:11.351351,CUST-3898,Smartphone,Telefonia,1,10009.36,10009.36,Transferencia,Completada,Cancelado,Monterrey
+TXN-000845,2025-11-04 12:33:52.432432,CUST-8546,Mouse,Accesorios,1,1012.34,1012.34,PayPal,Completada,Entregado,Tlaxcala
+TXN-000846,2025-11-04 21:18:33.513513,CUST-1077,Audifonos,Accesorios,2,3072.86,6145.72,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000847,2025-11-05 06:03:14.594594,CUST-8577,Smartphone,Telefonia,5,21656.61,108283.05,PayPal,Completada,Cancelado,Ciudad de Mexico
+TXN-000848,2025-11-05 14:47:55.675675,CUST-5227,Mouse,Accesorios,4,1377.91,5511.64,Tarjeta,Completada,Cancelado,Guadalajara
+TXN-000849,2025-11-05 23:32:36.756756,CUST-1600,Audifonos,Accesorios,2,554.71,1109.42,PayPal,Completada,Cancelado,Veracruz
+TXN-000850,2025-11-06 08:17:17.837837,CUST-2065,Smartphone,Telefonia,1,18480.4,18480.4,Efectivo,Completada,Enviado,Oaxaca
+TXN-000851,2025-11-06 17:01:58.918918,CUST-3136,Mouse,Accesorios,1,267.39,267.39,Transferencia,Cancelada,Pendiente,Queretaro
+TXN-000852,2025-11-07 01:46:40.000000,CUST-7943,Smartphone,Telefonia,1,15977.17,15977.17,Efectivo,Completada,Enviado,Ciudad de Mexico
+TXN-000853,2025-11-07 10:31:21.081081,CUST-8804,Smartphone,Telefonia,5,10752.65,53763.25,PayPal,Completada,Enviado,Oaxaca
+TXN-000854,2025-11-07 19:16:02.162162,CUST-7565,Audifonos,Accesorios,5,1880.49,9402.45,PayPal,Completada,Entregado,Puebla
+TXN-000855,2025-11-08 04:00:43.243243,CUST-6984,Smartphone,Telefonia,2,12059.17,24118.34,Efectivo,Completada,Cancelado,Ciudad de Mexico
+TXN-000856,2025-11-08 12:45:24.324324,CUST-6142,Smartphone,Telefonia,4,17425.85,69703.4,PayPal,Completada,Enviado,Ciudad de Mexico
+TXN-000857,2025-11-08 21:30:05.405405,CUST-5670,Audifonos,Accesorios,2,2003.22,4006.44,Tarjeta,Completada,Cancelado,Veracruz
+TXN-000858,2025-11-09 06:14:46.486486,CUST-3190,Monitor,Computacion,3,7995.24,23985.72,Efectivo,Completada,Enviado,Guadalajara
+TXN-000859,2025-11-09 14:59:27.567567,CUST-3712,Laptop,Computacion,1,18090.55,18090.55,Transferencia,Pendiente,Enviado,Oaxaca
+TXN-000860,2025-11-09 23:44:08.648648,CUST-3192,Impresora,Computacion,1,1944.3,1944.3,Efectivo,Completada,Entregado,Monterrey
+TXN-000861,2025-11-10 08:28:49.729729,CUST-2248,Tablet,Computacion,1,12405.12,12405.12,Tarjeta,Completada,Pendiente,Ciudad de Mexico
+TXN-000862,2025-11-10 17:13:30.810810,CUST-5033,Teclado,Accesorios,2,785.79,1571.58,Tarjeta,Pendiente,Pendiente,Ciudad de Mexico
+TXN-000863,2025-11-11 01:58:11.891891,CUST-2997,Tablet,Computacion,2,8193.2,16386.4,Tarjeta,Completada,Enviado,Veracruz
+TXN-000864,2025-11-11 10:42:52.972972,CUST-4687,Tablet,Computacion,1,11225.33,11225.33,Tarjeta,Pendiente,Entregado,Veracruz
+TXN-000865,2025-11-11 19:27:34.054054,CUST-5018,Mouse,Accesorios,2,632.19,1264.38,Tarjeta,Completada,Cancelado,Guadalajara
+TXN-000866,2025-11-12 04:12:15.135135,CUST-2970,Laptop,Computacion,5,11131.71,55658.55,Transferencia,Pendiente,Cancelado,Oaxaca
+TXN-000867,2025-11-12 12:56:56.216216,CUST-9389,Mouse,Accesorios,5,686.1,3430.5,PayPal,Completada,Enviado,Puebla
+TXN-000868,2025-11-12 21:41:37.297297,CUST-6765,Laptop,Computacion,2,28888.97,57777.94,Tarjeta,Completada,Pendiente,Monterrey
+TXN-000869,2025-11-13 06:26:18.378378,CUST-2202,Audifonos,Accesorios,1,3387.8,3387.8,Tarjeta,Pendiente,Entregado,Guadalajara
+TXN-000870,2025-11-13 15:10:59.459459,CUST-9135,Audifonos,Accesorios,2,3521.66,7043.32,Efectivo,Completada,Pendiente,Queretaro
+TXN-000871,2025-11-13 23:55:40.540540,CUST-6567,Impresora,Computacion,2,5609.83,11219.66,Transferencia,Completada,Cancelado,Puebla
+TXN-000872,2025-11-14 08:40:21.621621,CUST-8667,Laptop,Computacion,2,13979.84,27959.68,Transferencia,Completada,Pendiente,Tlaxcala
+TXN-000873,2025-11-14 17:25:02.702702,CUST-6742,Smartphone,Telefonia,3,13366.68,40100.04,PayPal,Completada,Cancelado,Ciudad de Mexico
+TXN-000874,2025-11-15 02:09:43.783783,CUST-6788,Monitor,Computacion,5,8132.05,40660.25,Transferencia,Completada,Entregado,Oaxaca
+TXN-000875,2025-11-15 10:54:24.864864,CUST-6408,Impresora,Computacion,4,2158.92,8635.68,Efectivo,Completada,Entregado,Guadalajara
+TXN-000876,2025-11-15 19:39:05.945945,CUST-9669,Impresora,Computacion,4,3306.04,13224.16,Efectivo,Completada,Enviado,Ciudad de Mexico
+TXN-000877,2025-11-16 04:23:47.027027,CUST-1922,Smartphone,Telefonia,3,10526.38,31579.14,PayPal,Completada,Enviado,Oaxaca
+TXN-000878,2025-11-16 13:08:28.108108,CUST-1419,Monitor,Computacion,2,5740.14,11480.28,Efectivo,Completada,Pendiente,Oaxaca
+TXN-000879,2025-11-16 21:53:09.189189,CUST-3204,Mouse,Accesorios,3,1474.48,4423.44,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000880,2025-11-17 06:37:50.270270,CUST-2120,Monitor,Computacion,3,3006.27,9018.81,Tarjeta,Completada,Entregado,Ciudad de Mexico
+TXN-000881,2025-11-17 15:22:31.351351,CUST-1950,Mouse,Accesorios,1,874.31,874.31,Efectivo,Completada,Enviado,Guadalajara
+TXN-000882,2025-11-18 00:07:12.432432,CUST-3336,Audifonos,Accesorios,5,1307.14,6535.7,PayPal,Completada,Cancelado,Monterrey
+TXN-000883,2025-11-18 08:51:53.513513,CUST-6373,Tablet,Computacion,4,14648.12,58592.48,Transferencia,Completada,Pendiente,Veracruz
+TXN-000884,2025-11-18 17:36:34.594594,CUST-3243,Audifonos,Accesorios,2,1009.87,2019.74,PayPal,Completada,Pendiente,Ciudad de Mexico
+TXN-000885,2025-11-19 02:21:15.675675,CUST-3645,Audifonos,Accesorios,4,2316.2,9264.8,Transferencia,Completada,Enviado,Queretaro
+TXN-000886,2025-11-19 11:05:56.756756,CUST-5612,Tablet,Computacion,4,11854.62,47418.48,Efectivo,Completada,Entregado,Oaxaca
+TXN-000887,2025-11-19 19:50:37.837837,CUST-2865,Monitor,Computacion,5,7784.16,38920.8,Efectivo,Pendiente,Enviado,Guadalajara
+TXN-000888,2025-11-20 04:35:18.918918,CUST-7028,Impresora,Computacion,4,4247.74,16990.96,Tarjeta,Completada,Enviado,Monterrey
+TXN-000889,2025-11-20 13:20:00.000000,CUST-8326,Monitor,Computacion,4,5098.93,20395.72,Transferencia,Completada,Enviado,Tlaxcala
+TXN-000890,2025-11-20 22:04:41.081081,CUST-7371,Mouse,Accesorios,3,716.9,2150.7,PayPal,Completada,Enviado,Queretaro
+TXN-000891,2025-11-21 06:49:22.162162,CUST-7359,Smartphone,Telefonia,5,10285.53,51427.65,Efectivo,Completada,Cancelado,Puebla
+TXN-000892,2025-11-21 15:34:03.243243,CUST-8863,Mouse,Accesorios,1,466.93,466.93,PayPal,Cancelada,Cancelado,Queretaro
+TXN-000893,2025-11-22 00:18:44.324324,CUST-4228,Smartphone,Telefonia,2,14660.79,29321.58,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000894,2025-11-22 09:03:25.405405,CUST-4719,Audifonos,Accesorios,4,1708.4,6833.6,Transferencia,Completada,Enviado,Tlaxcala
+TXN-000895,2025-11-22 17:48:06.486486,CUST-3371,Tablet,Computacion,2,6449.54,12899.08,Transferencia,Pendiente,Cancelado,Veracruz
+TXN-000896,2025-11-23 02:32:47.567567,CUST-3891,Audifonos,Accesorios,1,3455.4,3455.4,Efectivo,Completada,Entregado,Monterrey
+TXN-000897,2025-11-23 11:17:28.648648,CUST-4756,Laptop,Computacion,2,29370.75,58741.5,Transferencia,Completada,Enviado,Monterrey
+TXN-000898,2025-11-23 20:02:09.729729,CUST-5225,Monitor,Computacion,1,7027.28,7027.28,Efectivo,Completada,Pendiente,Oaxaca
+TXN-000899,2025-11-24 04:46:50.810810,CUST-1094,Smartphone,Telefonia,3,6539.59,19618.77,Tarjeta,Completada,Cancelado,Queretaro
+TXN-000900,2025-11-24 13:31:31.891891,CUST-3674,Mouse,Accesorios,4,298.26,1193.04,Transferencia,Cancelada,Entregado,Queretaro
+TXN-000901,2025-11-24 22:16:12.972972,CUST-7898,Tablet,Computacion,1,14417.08,14417.08,Efectivo,Cancelada,Pendiente,Monterrey
+TXN-000902,2025-11-25 07:00:54.054054,CUST-1793,Smartphone,Telefonia,2,10945.82,21891.64,PayPal,Completada,Enviado,Tlaxcala
+TXN-000903,2025-11-25 15:45:35.135135,CUST-3116,Mouse,Accesorios,4,319.69,1278.76,Efectivo,Completada,Enviado,Oaxaca
+TXN-000904,2025-11-26 00:30:16.216216,CUST-6779,Monitor,Computacion,3,6992.83,20978.49,Transferencia,Pendiente,Enviado,Ciudad de Mexico
+TXN-000905,2025-11-26 09:14:57.297297,CUST-7166,Audifonos,Accesorios,4,3306.42,13225.68,Tarjeta,Completada,Cancelado,Guadalajara
+TXN-000906,2025-11-26 17:59:38.378378,CUST-1814,Monitor,Computacion,1,7363.79,7363.79,Transferencia,Completada,Entregado,Tlaxcala
+TXN-000907,2025-11-27 02:44:19.459459,CUST-1345,Teclado,Accesorios,3,754.58,2263.74,Transferencia,Pendiente,Pendiente,Guadalajara
+TXN-000908,2025-11-27 11:29:00.540540,CUST-9554,Laptop,Computacion,2,10302.21,20604.42,Efectivo,Completada,Entregado,Ciudad de Mexico
+TXN-000909,2025-11-27 20:13:41.621621,CUST-3443,Teclado,Accesorios,3,1940.53,5821.59,PayPal,Completada,Cancelado,Ciudad de Mexico
+TXN-000910,2025-11-28 04:58:22.702702,CUST-8783,Tablet,Computacion,3,6010.72,18032.16,Transferencia,Completada,Entregado,Guadalajara
+TXN-000911,2025-11-28 13:43:03.783783,CUST-1984,Smartphone,Telefonia,5,18520.53,92602.65,PayPal,Pendiente,Cancelado,Tlaxcala
+TXN-000912,2025-11-28 22:27:44.864864,CUST-8790,Tablet,Computacion,3,11479.56,34438.68,Efectivo,Completada,Enviado,Guadalajara
+TXN-000913,2025-11-29 07:12:25.945945,CUST-1827,Audifonos,Accesorios,3,3245.03,9735.09,PayPal,Completada,Pendiente,Guadalajara
+TXN-000914,2025-11-29 15:57:07.027027,CUST-4531,Mouse,Accesorios,4,606.78,2427.12,Efectivo,Completada,Enviado,Puebla
+TXN-000915,2025-11-30 00:41:48.108108,CUST-8147,Monitor,Computacion,2,4533.22,9066.44,Tarjeta,Completada,Entregado,Tlaxcala
+TXN-000916,2025-11-30 09:26:29.189189,CUST-5451,Teclado,Accesorios,4,1316.04,5264.16,PayPal,Completada,Enviado,Queretaro
+TXN-000917,2025-11-30 18:11:10.270270,CUST-4876,Impresora,Computacion,4,7129.62,28518.48,PayPal,Completada,Pendiente,Queretaro
+TXN-000918,2025-12-01 02:55:51.351351,CUST-6959,Teclado,Accesorios,1,1909.45,1909.45,Tarjeta,Completada,Enviado,Puebla
+TXN-000919,2025-12-01 11:40:32.432432,CUST-1126,Audifonos,Accesorios,4,976.58,3906.32,PayPal,Completada,Pendiente,Oaxaca
+TXN-000920,2025-12-01 20:25:13.513513,CUST-4177,Teclado,Accesorios,5,563.21,2816.05,Tarjeta,Cancelada,Pendiente,Monterrey
+TXN-000921,2025-12-02 05:09:54.594594,CUST-9795,Audifonos,Accesorios,5,4751.31,23756.55,Transferencia,Completada,Enviado,Queretaro
+TXN-000922,2025-12-02 13:54:35.675675,CUST-7024,Impresora,Computacion,1,6287.48,6287.48,Efectivo,Cancelada,Cancelado,Guadalajara
+TXN-000923,2025-12-02 22:39:16.756756,CUST-6109,Tablet,Computacion,2,13595.93,27191.86,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000924,2025-12-03 07:23:57.837837,CUST-5146,Monitor,Computacion,2,4019.74,8039.48,PayPal,Completada,Cancelado,Queretaro
+TXN-000925,2025-12-03 16:08:38.918918,CUST-8196,Smartphone,Telefonia,4,16751.72,67006.88,Tarjeta,Completada,Cancelado,Tlaxcala
+TXN-000926,2025-12-04 00:53:20.000000,CUST-4368,Mouse,Accesorios,4,1111.48,4445.92,PayPal,Completada,Enviado,Guadalajara
+TXN-000927,2025-12-04 09:38:01.081081,CUST-4797,Smartphone,Telefonia,4,18602.24,74408.96,Transferencia,Cancelada,Entregado,Monterrey
+TXN-000928,2025-12-04 18:22:42.162162,CUST-2792,Tablet,Computacion,2,7897.82,15795.64,Tarjeta,Completada,Entregado,Oaxaca
+TXN-000929,2025-12-05 03:07:23.243243,CUST-6732,Mouse,Accesorios,3,220.01,660.03,Transferencia,Completada,Cancelado,Queretaro
+TXN-000930,2025-12-05 11:52:04.324324,CUST-4476,Teclado,Accesorios,5,1290.97,6454.85,Efectivo,Completada,Enviado,Queretaro
+TXN-000931,2025-12-05 20:36:45.405405,CUST-4417,Impresora,Computacion,3,3145.16,9435.48,PayPal,Completada,Entregado,Veracruz
+TXN-000932,2025-12-06 05:21:26.486486,CUST-2645,Impresora,Computacion,3,4426.65,13279.95,PayPal,Completada,Cancelado,Queretaro
+TXN-000933,2025-12-06 14:06:07.567567,CUST-4030,Laptop,Computacion,2,29151.62,58303.24,Transferencia,Completada,Entregado,Ciudad de Mexico
+TXN-000934,2025-12-06 22:50:48.648648,CUST-3872,Tablet,Computacion,3,7788.42,23365.26,Efectivo,Completada,Enviado,Guadalajara
+TXN-000935,2025-12-07 07:35:29.729729,CUST-4072,Tablet,Computacion,1,13077.62,13077.62,Tarjeta,Completada,Enviado,Monterrey
+TXN-000936,2025-12-07 16:20:10.810810,CUST-2854,Monitor,Computacion,4,3914.05,15656.2,Tarjeta,Completada,Enviado,Ciudad de Mexico
+TXN-000937,2025-12-08 01:04:51.891891,CUST-5021,Smartphone,Telefonia,1,18449.21,18449.21,PayPal,Completada,Entregado,Puebla
+TXN-000938,2025-12-08 09:49:32.972972,CUST-5662,Tablet,Computacion,5,14724.08,73620.4,Transferencia,Completada,Pendiente,Oaxaca
+TXN-000939,2025-12-08 18:34:14.054054,CUST-7514,Tablet,Computacion,4,4222.72,16890.88,Transferencia,Completada,Entregado,Queretaro
+TXN-000940,2025-12-09 03:18:55.135135,CUST-6031,Teclado,Accesorios,3,314.14,942.42,Tarjeta,Completada,Pendiente,Puebla
+TXN-000941,2025-12-09 12:03:36.216216,CUST-3708,Teclado,Accesorios,5,1037.09,5185.45,Efectivo,Completada,Enviado,Monterrey
+TXN-000942,2025-12-09 20:48:17.297297,CUST-8112,Mouse,Accesorios,4,320.41,1281.64,Efectivo,Completada,Cancelado,Guadalajara
+TXN-000943,2025-12-10 05:32:58.378378,CUST-9393,Audifonos,Accesorios,3,3867.73,11603.19,Tarjeta,Completada,Pendiente,Ciudad de Mexico
+TXN-000944,2025-12-10 14:17:39.459459,CUST-4507,Audifonos,Accesorios,1,4615.47,4615.47,Tarjeta,Pendiente,Enviado,Ciudad de Mexico
+TXN-000945,2025-12-10 23:02:20.540540,CUST-7456,Laptop,Computacion,4,18680.42,74721.68,Transferencia,Completada,Enviado,Oaxaca
+TXN-000946,2025-12-11 07:47:01.621621,CUST-5212,Audifonos,Accesorios,3,1664.2,4992.6,Efectivo,Completada,Pendiente,Guadalajara
+TXN-000947,2025-12-11 16:31:42.702702,CUST-8970,Monitor,Computacion,1,5758.02,5758.02,Tarjeta,Pendiente,Cancelado,Queretaro
+TXN-000948,2025-12-12 01:16:23.783783,CUST-9766,Laptop,Computacion,5,24468.96,122344.8,Tarjeta,Pendiente,Enviado,Veracruz
+TXN-000949,2025-12-12 10:01:04.864864,CUST-1536,Mouse,Accesorios,5,211.77,1058.85,PayPal,Completada,Pendiente,Veracruz
+TXN-000950,2025-12-12 18:45:45.945945,CUST-2625,Teclado,Accesorios,5,1302.07,6510.35,Tarjeta,Cancelada,Cancelado,Oaxaca
+TXN-000951,2025-12-13 03:30:27.027027,CUST-8973,Audifonos,Accesorios,5,3259.81,16299.05,Tarjeta,Completada,Cancelado,Guadalajara
+TXN-000952,2025-12-13 12:15:08.108108,CUST-9577,Smartphone,Telefonia,2,17753.76,35507.52,Efectivo,Completada,Enviado,Oaxaca
+TXN-000953,2025-12-13 20:59:49.189189,CUST-9070,Teclado,Accesorios,4,711.44,2845.76,Transferencia,Completada,Entregado,Guadalajara
+TXN-000954,2025-12-14 05:44:30.270270,CUST-9666,Impresora,Computacion,4,6141.34,24565.36,Efectivo,Completada,Entregado,Monterrey
+TXN-000955,2025-12-14 14:29:11.351351,CUST-9609,Monitor,Computacion,2,3185.44,6370.88,Transferencia,Completada,Enviado,Monterrey
+TXN-000956,2025-12-14 23:13:52.432432,CUST-7490,Teclado,Accesorios,3,638.76,1916.28,PayPal,Completada,Cancelado,Puebla
+TXN-000957,2025-12-15 07:58:33.513513,CUST-4600,Monitor,Computacion,3,9081.03,27243.09,Tarjeta,Completada,Enviado,Queretaro
+TXN-000958,2025-12-15 16:43:14.594594,CUST-7783,Monitor,Computacion,5,8040.42,40202.1,PayPal,Pendiente,Pendiente,Oaxaca
+TXN-000959,2025-12-16 01:27:55.675675,CUST-5971,Monitor,Computacion,1,2603.09,2603.09,Transferencia,Pendiente,Entregado,Queretaro
+TXN-000960,2025-12-16 10:12:36.756756,CUST-2205,Mouse,Accesorios,3,522.89,1568.67,Efectivo,Completada,Pendiente,Guadalajara
+TXN-000961,2025-12-16 18:57:17.837837,CUST-2990,Monitor,Computacion,1,4108.05,4108.05,Efectivo,Pendiente,Enviado,Veracruz
+TXN-000962,2025-12-17 03:41:58.918918,CUST-6299,Monitor,Computacion,4,4531.05,18124.2,PayPal,Pendiente,Enviado,Queretaro
+TXN-000963,2025-12-17 12:26:40.000000,CUST-4572,Impresora,Computacion,1,3109.14,3109.14,Transferencia,Completada,Cancelado,Guadalajara
+TXN-000964,2025-12-17 21:11:21.081081,CUST-6975,Smartphone,Telefonia,4,6250.53,25002.12,PayPal,Completada,Cancelado,Monterrey
+TXN-000965,2025-12-18 05:56:02.162162,CUST-7320,Laptop,Computacion,2,19178.81,38357.62,PayPal,Completada,Cancelado,Guadalajara
+TXN-000966,2025-12-18 14:40:43.243243,CUST-5380,Tablet,Computacion,2,11792.8,23585.6,Tarjeta,Cancelada,Pendiente,Oaxaca
+TXN-000967,2025-12-18 23:25:24.324324,CUST-5757,Impresora,Computacion,5,5443.76,27218.8,PayPal,Completada,Cancelado,Puebla
+TXN-000968,2025-12-19 08:10:05.405405,CUST-3713,Laptop,Computacion,3,23457.43,70372.29,Tarjeta,Completada,Enviado,Puebla
+TXN-000969,2025-12-19 16:54:46.486486,CUST-6588,Monitor,Computacion,5,3108.62,15543.1,Tarjeta,Completada,Cancelado,Puebla
+TXN-000970,2025-12-20 01:39:27.567567,CUST-1966,Smartphone,Telefonia,4,24029.81,96119.24,Efectivo,Completada,Entregado,Puebla
+TXN-000971,2025-12-20 10:24:08.648648,CUST-5944,Teclado,Accesorios,5,1725.44,8627.2,Tarjeta,Completada,Cancelado,Monterrey
+TXN-000972,2025-12-20 19:08:49.729729,CUST-4432,Smartphone,Telefonia,1,21101.81,21101.81,Tarjeta,Completada,Pendiente,Tlaxcala
+TXN-000973,2025-12-21 03:53:30.810810,CUST-1688,Impresora,Computacion,4,6849.39,27397.56,Efectivo,Completada,Entregado,Queretaro
+TXN-000974,2025-12-21 12:38:11.891891,CUST-5243,Monitor,Computacion,2,9495.33,18990.66,PayPal,Pendiente,Entregado,Oaxaca
+TXN-000975,2025-12-21 21:22:52.972972,CUST-4701,Smartphone,Telefonia,3,15885.08,47655.24,Transferencia,Pendiente,Entregado,Ciudad de Mexico
+TXN-000976,2025-12-22 06:07:34.054054,CUST-9533,Audifonos,Accesorios,4,1401.27,5605.08,Transferencia,Completada,Pendiente,Oaxaca
+TXN-000977,2025-12-22 14:52:15.135135,CUST-6182,Smartphone,Telefonia,4,17335.67,69342.68,Transferencia,Cancelada,Enviado,Tlaxcala
+TXN-000978,2025-12-22 23:36:56.216216,CUST-7704,Monitor,Computacion,1,8071.61,8071.61,PayPal,Completada,Cancelado,Puebla
+TXN-000979,2025-12-23 08:21:37.297297,CUST-5422,Mouse,Accesorios,3,1159.29,3477.87,Tarjeta,Completada,Entregado,Tlaxcala
+TXN-000980,2025-12-23 17:06:18.378378,CUST-2759,Audifonos,Accesorios,2,2846.52,5693.04,Transferencia,Completada,Entregado,Veracruz
+TXN-000981,2025-12-24 01:50:59.459459,CUST-3482,Smartphone,Telefonia,4,6369.17,25476.68,PayPal,Pendiente,Entregado,Veracruz
+TXN-000982,2025-12-24 10:35:40.540540,CUST-9058,Tablet,Computacion,4,7453.36,29813.44,Tarjeta,Cancelada,Enviado,Queretaro
+TXN-000983,2025-12-24 19:20:21.621621,CUST-1951,Tablet,Computacion,1,14049.2,14049.2,Efectivo,Completada,Enviado,Monterrey
+TXN-000984,2025-12-25 04:05:02.702702,CUST-9914,Smartphone,Telefonia,5,16688.98,83444.9,Transferencia,Pendiente,Pendiente,Oaxaca
+TXN-000985,2025-12-25 12:49:43.783783,CUST-3079,Mouse,Accesorios,2,899.83,1799.66,Tarjeta,Completada,Enviado,Oaxaca
+TXN-000986,2025-12-25 21:34:24.864864,CUST-3717,Teclado,Accesorios,3,757.05,2271.15,Transferencia,Completada,Cancelado,Ciudad de Mexico
+TXN-000987,2025-12-26 06:19:05.945945,CUST-5524,Monitor,Computacion,4,5263.37,21053.48,Transferencia,Completada,Pendiente,Monterrey
+TXN-000988,2025-12-26 15:03:47.027027,CUST-9477,Tablet,Computacion,4,13744.15,54976.6,Transferencia,Completada,Pendiente,Ciudad de Mexico
+TXN-000989,2025-12-26 23:48:28.108108,CUST-8311,Teclado,Accesorios,2,1432.99,2865.98,Tarjeta,Completada,Cancelado,Veracruz
+TXN-000990,2025-12-27 08:33:09.189189,CUST-8186,Smartphone,Telefonia,5,20747.74,103738.7,PayPal,Pendiente,Cancelado,Puebla
+TXN-000991,2025-12-27 17:17:50.270270,CUST-3065,Impresora,Computacion,4,4453.25,17813.0,Tarjeta,Completada,Cancelado,Tlaxcala
+TXN-000992,2025-12-28 02:02:31.351351,CUST-1768,Teclado,Accesorios,2,1371.42,2742.84,Transferencia,Completada,Pendiente,Ciudad de Mexico
+TXN-000993,2025-12-28 10:47:12.432432,CUST-6490,Audifonos,Accesorios,1,1617.73,1617.73,Tarjeta,Completada,Pendiente,Guadalajara
+TXN-000994,2025-12-28 19:31:53.513513,CUST-7645,Laptop,Computacion,5,24109.22,120546.1,Efectivo,Completada,Pendiente,Ciudad de Mexico
+TXN-000995,2025-12-29 04:16:34.594594,CUST-6083,Tablet,Computacion,3,8131.22,24393.66,PayPal,Pendiente,Cancelado,Puebla
+TXN-000996,2025-12-29 13:01:15.675675,CUST-6232,Smartphone,Telefonia,4,13850.91,55403.64,Tarjeta,Completada,Cancelado,Puebla
+TXN-000997,2025-12-29 21:45:56.756756,CUST-6797,Impresora,Computacion,2,5720.6,11441.2,Efectivo,Completada,Entregado,Oaxaca
+TXN-000998,2025-12-30 06:30:37.837837,CUST-5926,Monitor,Computacion,1,9522.1,9522.1,PayPal,Pendiente,Enviado,Tlaxcala
+TXN-000999,2025-12-30 15:15:18.918918,CUST-7016,Impresora,Computacion,3,1916.04,5748.12,Efectivo,Completada,Entregado,Puebla
+TXN-001000,2025-12-31 00:00:00.000000,CUST-4335,Mouse,Accesorios,2,1272.17,2544.34,PayPal,Completada,Cancelado,Monterrey
